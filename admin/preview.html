@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<title>معاينة</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&family=Tajawal:wght@300;400;500;700&family=Cormorant+Garamond:wght@300;400;500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/main.css?v=3">
+<style>
+  body { background: #f4f2ed; margin: 0; padding: 14px; }
+  .pv h4 { margin: 4px 0 10px; font: 500 13px/1.2 "Tajawal", Arial, sans-serif; color: #6d7b87; letter-spacing: 0; }
+  .pv .cards, .pv .nx-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0; max-width: 420px; margin: 0 auto 22px; }
+  .pv a, .pv button { pointer-events: none; }
+  .pv .scroll-fade { opacity: 1 !important; transform: none !important; }
+</style>
+<script src="../assets/js/imgfix.js"></script>
+</head>
+<body>
+<div class="pv" id="pv"></div>
+<script src="../assets/js/config.js"></script>
+<script src="../assets/js/cards.js?v=2"></script>
+<script>
+(function () {
+  var C = window.EliteCards, pv = document.getElementById('pv');
+  function render(m) {
+    var lang = m.lang === 'en' ? 'en' : 'ar', u = m.unit, comp = m.compound;
+    document.documentElement.lang = lang;
+    document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
+    var fb = comp ? comp.cover : 'assets/img/brand/fallback.jpg';
+    var html = '<h4>' + (lang === 'ar' ? 'كارت صفحة الوحدات والرئيسية' : 'Units page / home card') + '</h4>' +
+      '<div class="cards">' + C.card(u, { lang: lang, base: '../', fallback: fb }) + '</div>';
+    if (comp) {
+      var su = C.sahelUnit(u, { lang: lang, base: '../', comp: comp });
+      html += '<h4>' + (lang === 'ar' ? 'كارت صفحة الكمبوند' : 'Compound page card') + '</h4>' +
+        '<div class="nx-grid">' + C.nxCard(su, { lang: lang, base: '../', i: 0, fallback: comp.cover, devInitials: (u.developer || comp.name.en) }) + '</div>';
+    }
+    pv.innerHTML = html;
+    if (window.EliteImgFix) window.EliteImgFix.sweep();
+    parent.postMessage({ type: 'preview-height', h: document.documentElement.scrollHeight }, '*');
+  }
+  window.addEventListener('message', function (e) {
+    if (e.origin !== location.origin || !e.data || e.data.type !== 'unit') return;
+    render(e.data);
+  });
+  parent.postMessage({ type: 'preview-ready' }, location.origin);
+})();
+</script>
+</body>
+</html>

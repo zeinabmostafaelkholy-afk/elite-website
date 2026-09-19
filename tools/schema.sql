@@ -1,0 +1,28 @@
+-- Elite Real Estate — جدول طلبات التقييم (اختياري، لو هتستخدم MySQL)
+CREATE TABLE IF NOT EXISTS `valuation_leads` (
+  `id`              INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `created_at`      DATETIME NOT NULL,
+  `name`            VARCHAR(80)  NOT NULL,
+  `phone`           VARCHAR(24)  NOT NULL,
+  `email`           VARCHAR(120) DEFAULT NULL,
+  `lang`            VARCHAR(4)   DEFAULT 'ar',
+  `intent`          VARCHAR(20)  DEFAULT NULL,
+  `region`          VARCHAR(40)  DEFAULT NULL,
+  `zone`            VARCHAR(40)  DEFAULT NULL,
+  `type`            VARCHAR(20)  DEFAULT NULL,
+  `area`            DECIMAL(10,2) DEFAULT NULL,
+  `beds`            VARCHAR(3)   DEFAULT NULL,
+  `baths`           VARCHAR(3)   DEFAULT NULL,
+  `finish`          VARCHAR(20)  DEFAULT NULL,
+  `floor`           VARCHAR(20)  DEFAULT NULL,
+  `age`             VARCHAR(20)  DEFAULT NULL,
+  `features`        VARCHAR(255) DEFAULT NULL,
+  `legal`           VARCHAR(20)  DEFAULT NULL,
+  `payment`         VARCHAR(20)  DEFAULT NULL,
+  `estimated_value` BIGINT       DEFAULT NULL,
+  `per_sqm`         BIGINT       DEFAULT NULL,
+  `ip`              VARCHAR(45)  DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `idx_phone` (`phone`),
+  KEY `idx_created` (`created_at`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

@@ -1,0 +1,1136 @@
+{
+  "title": {
+    "ar": "خريطة الساحل الشمالي 2026",
+    "en": "Sahel Map 2026"
+  },
+  "regions": [
+    {
+      "id": "sidi-heneish",
+      "name": {
+        "ar": "سيدي حنيش",
+        "en": "Sidi Heneish"
+      },
+      "range": [
+        240,
+        275
+      ],
+      "compounds": [
+        {
+          "km": 275,
+          "name": {
+            "en": "Alam Al Roum",
+            "ar": "علم الروم"
+          },
+          "match": [
+            "alam al roum"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 273,
+          "name": {
+            "en": "Jamila",
+            "ar": "جميلة"
+          },
+          "match": [
+            "jamila"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 250,
+          "name": {
+            "en": "Almaza Bay",
+            "ar": "الماظة باي"
+          },
+          "match": [
+            "almaza bay"
+          ],
+          "exclude": [],
+          "project": "almaza-bay"
+        },
+        {
+          "km": 248,
+          "name": {
+            "en": "Hacienda Heneish",
+            "ar": "هاسيندا حنيش"
+          },
+          "match": [
+            "hacienda heneish"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 247,
+          "name": {
+            "en": "Silversands",
+            "ar": "سيلفر ساندز"
+          },
+          "match": [
+            "silversands",
+            "silver sands"
+          ],
+          "exclude": [],
+          "project": "silversands"
+        },
+        {
+          "km": 246,
+          "name": {
+            "en": "Sky North",
+            "ar": "سكاي نورث"
+          },
+          "match": [
+            "sky north"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 246,
+          "name": {
+            "en": "Summer",
+            "ar": "سمر"
+          },
+          "match": [
+            "\\bsummer\\b"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 241,
+          "name": {
+            "en": "Beit Al Bahr",
+            "ar": "بيت البحر"
+          },
+          "match": [
+            "beit al bahr",
+            "bait el bahr"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 240,
+          "name": {
+            "en": "Marsa Baghush",
+            "ar": "مرسى باجوش"
+          },
+          "match": [
+            "baghush",
+            "baghoush"
+          ],
+          "exclude": [],
+          "project": null
+        }
+      ]
+    },
+    {
+      "id": "ras-el-hekma",
+      "name": {
+        "ar": "رأس الحكمة",
+        "en": "Ras El Hekma"
+      },
+      "range": [
+        178,
+        238
+      ],
+      "compounds": [
+        {
+          "km": 238,
+          "name": {
+            "en": "Hacienda Ras El Hekma",
+            "ar": "هاسيندا رأس الحكمة"
+          },
+          "match": [
+            "hacienda ras el hekma"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 220,
+          "name": {
+            "en": "Modon Ras El Hekma",
+            "ar": "مدن رأس الحكمة"
+          },
+          "match": [
+            "modon"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 215,
+          "name": {
+            "en": "Ramla",
+            "ar": "رملة"
+          },
+          "match": [
+            "\\bramla\\b"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 214,
+          "name": {
+            "en": "Azha",
+            "ar": "أزها"
+          },
+          "match": [
+            "azha"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 212,
+          "name": {
+            "en": "Naia Bay",
+            "ar": "نايا باي"
+          },
+          "match": [
+            "naia bay"
+          ],
+          "exclude": [],
+          "project": "naia-bay"
+        },
+        {
+          "km": 212,
+          "name": {
+            "en": "El Masyaf",
+            "ar": "المصيف"
+          },
+          "match": [
+            "masyaf"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 211,
+          "name": {
+            "en": "Fouka Bay",
+            "ar": "فوكا باي"
+          },
+          "match": [
+            "fouka bay"
+          ],
+          "exclude": [],
+          "project": "fouka-bay"
+        },
+        {
+          "km": 208,
+          "name": {
+            "en": "Hacienda West",
+            "ar": "هاسيندا ويست"
+          },
+          "match": [
+            "hacienda west"
+          ],
+          "exclude": [],
+          "project": "hacienda-west"
+        },
+        {
+          "km": 207,
+          "name": {
+            "en": "Hyde Park North - Seashore",
+            "ar": "هايد بارك نورث - سي شور"
+          },
+          "match": [
+            "seashore"
+          ],
+          "exclude": [],
+          "project": "seashore-ras-el-hekma"
+        },
+        {
+          "km": 206,
+          "name": {
+            "en": "Playa Seashell",
+            "ar": "بلايا سي شيل"
+          },
+          "match": [
+            "playa seashell"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 205,
+          "name": {
+            "en": "Ogami",
+            "ar": "أوجامي"
+          },
+          "match": [
+            "ogami"
+          ],
+          "exclude": [],
+          "project": "ogami-ras-el-hekma"
+        },
+        {
+          "km": 204,
+          "name": {
+            "en": "La Vista Ras El Hekma",
+            "ar": "لافيستا رأس الحكمة"
+          },
+          "match": [
+            "la vista ras el hekma"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 202,
+          "name": {
+            "en": "Caesar Sodic",
+            "ar": "سيزر سوديك"
+          },
+          "match": [
+            "caesar sodic"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 202,
+          "name": {
+            "en": "Koun",
+            "ar": "كون"
+          },
+          "match": [
+            "\\bkoun\\b"
+          ],
+          "exclude": [],
+          "project": "koun-ras-el-hekma"
+        },
+        {
+          "km": 201,
+          "name": {
+            "en": "Caesar Bay",
+            "ar": "سيزر باي"
+          },
+          "match": [
+            "caesar bay"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 200,
+          "name": {
+            "en": "Lyv",
+            "ar": "ليف"
+          },
+          "match": [
+            "\\blyv\\b"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 200,
+          "name": {
+            "en": "Mountain View Ras El Hekma",
+            "ar": "ماونتن فيو رأس الحكمة"
+          },
+          "match": [
+            "mountain view ras el hekma",
+            "evia mountain view"
+          ],
+          "exclude": [],
+          "project": "mountain-view-ras-el-hekma"
+        },
+        {
+          "km": 199,
+          "name": {
+            "en": "Solare",
+            "ar": "سولاري"
+          },
+          "match": [
+            "solare"
+          ],
+          "exclude": [],
+          "project": "solare-ras-el-hekma"
+        },
+        {
+          "km": 197,
+          "name": {
+            "en": "Swan Lake",
+            "ar": "سوان ليك"
+          },
+          "match": [
+            "swan lake"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 195,
+          "name": {
+            "en": "Seashell Ras El Hekma",
+            "ar": "سي شيل رأس الحكمة"
+          },
+          "match": [
+            "seashell ras el hekma"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 194,
+          "name": {
+            "en": "Gaia",
+            "ar": "جايا"
+          },
+          "match": [
+            "\\bgaia\\b"
+          ],
+          "exclude": [],
+          "project": "gaia-ras-el-hekma"
+        },
+        {
+          "km": 194,
+          "name": {
+            "en": "June",
+            "ar": "چون"
+          },
+          "match": [
+            "\\bjune\\b"
+          ],
+          "exclude": [],
+          "project": "june-ras-el-hekma"
+        },
+        {
+          "km": 193,
+          "name": {
+            "en": "Direction White",
+            "ar": "دايركشن وايت"
+          },
+          "match": [
+            "direction white"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 193,
+          "name": {
+            "en": "Cali Coast Ras El Hekma",
+            "ar": "كالي كوست رأس الحكمة"
+          },
+          "match": [
+            "cali coast"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 192,
+          "name": {
+            "en": "The Med",
+            "ar": "ذا ميد"
+          },
+          "match": [
+            "\\bthe med\\b"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 191,
+          "name": {
+            "en": "Hacienda Waters",
+            "ar": "هاسيندا ووترز"
+          },
+          "match": [
+            "hacienda waters"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 191,
+          "name": {
+            "en": "Marbay",
+            "ar": "مار باي"
+          },
+          "match": [
+            "marbay",
+            "mar bay"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 190,
+          "name": {
+            "en": "Jefaira",
+            "ar": "جيفيرا"
+          },
+          "match": [
+            "jefaira"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 188,
+          "name": {
+            "en": "The C",
+            "ar": "ذا سي"
+          },
+          "match": [
+            "\\bthe c\\b(?![a-z])"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 186,
+          "name": {
+            "en": "Youd",
+            "ar": "يود"
+          },
+          "match": [
+            "\\byoud\\b"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 185,
+          "name": {
+            "en": "Salt",
+            "ar": "سولت"
+          },
+          "match": [
+            "\\bsalt\\b"
+          ],
+          "exclude": [],
+          "project": "salt-ras-el-hekma"
+        },
+        {
+          "km": 185,
+          "name": {
+            "en": "Azzar Island",
+            "ar": "أزار آيلاند"
+          },
+          "match": [
+            "azzar"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 184,
+          "name": {
+            "en": "Katameya Coast",
+            "ar": "قطامية كوست"
+          },
+          "match": [
+            "katameya coast"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 183,
+          "name": {
+            "en": "Safia",
+            "ar": "صافية"
+          },
+          "match": [
+            "\\bsafia\\b"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 183,
+          "name": {
+            "en": "Soul",
+            "ar": "سول"
+          },
+          "match": [
+            "\\bsoul\\b"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 180,
+          "name": {
+            "en": "Sa'ada Sahel",
+            "ar": "سعادة الساحل"
+          },
+          "match": [
+            "sa'ada",
+            "saada"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 179,
+          "name": {
+            "en": "LVLS",
+            "ar": "ليفلز"
+          },
+          "match": [
+            "lvls"
+          ],
+          "exclude": [],
+          "project": null
+        }
+      ]
+    },
+    {
+      "id": "al-dabaa",
+      "name": {
+        "ar": "الضبعة",
+        "en": "Al Dabaa"
+      },
+      "range": [
+        155,
+        177
+      ],
+      "compounds": [
+        {
+          "km": 174,
+          "name": {
+            "en": "D.O.S.E",
+            "ar": "دوز"
+          },
+          "match": [
+            "d.o.s.e"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 173,
+          "name": {
+            "en": "Seazen",
+            "ar": "سي زن"
+          },
+          "match": [
+            "seazen"
+          ],
+          "exclude": [],
+          "project": "seazen-north-coast"
+        },
+        {
+          "km": 172,
+          "name": {
+            "en": "La Vista Bay",
+            "ar": "لافيستا باي"
+          },
+          "match": [
+            "la vista bay"
+          ],
+          "exclude": [
+            "la vista bay east"
+          ],
+          "project": "la-vista-bay"
+        },
+        {
+          "km": 169,
+          "name": {
+            "en": "La Vista Bay East",
+            "ar": "لافيستا باي إيست"
+          },
+          "match": [
+            "la vista bay east"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 169,
+          "name": {
+            "en": "The Waterway",
+            "ar": "ذا ووتر واي"
+          },
+          "match": [
+            "waterway"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 168,
+          "name": {
+            "en": "D-Bay",
+            "ar": "دي باي"
+          },
+          "match": [
+            "d-bay",
+            "d bay"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 167,
+          "name": {
+            "en": "Hacienda Blue",
+            "ar": "هاسيندا بلو"
+          },
+          "match": [
+            "hacienda blue"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 166,
+          "name": {
+            "en": "Lasirena Sahel",
+            "ar": "لاسيرينا الساحل"
+          },
+          "match": [
+            "lasirena",
+            "la sirena"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 165,
+          "name": {
+            "en": "South Med",
+            "ar": "ساوث ميد"
+          },
+          "match": [
+            "southmed",
+            "south med"
+          ],
+          "exclude": [],
+          "project": "southmed"
+        }
+      ]
+    },
+    {
+      "id": "ghazala-bay",
+      "name": {
+        "ar": "غزالة باي",
+        "en": "Ghazala Bay"
+      },
+      "range": [
+        145,
+        154
+      ],
+      "compounds": [
+        {
+          "km": 146,
+          "name": {
+            "en": "Playa",
+            "ar": "بلايا"
+          },
+          "match": [
+            "playa ghazala"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 145,
+          "name": {
+            "en": "Ghazala Bay",
+            "ar": "غزالة باي"
+          },
+          "match": [
+            "ghazala bay"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 145,
+          "name": {
+            "en": "Zoya",
+            "ar": "زويا"
+          },
+          "match": [
+            "\\bzoya\\b"
+          ],
+          "exclude": [],
+          "project": null
+        }
+      ]
+    },
+    {
+      "id": "sidi-abdelrahman",
+      "name": {
+        "ar": "سيدي عبد الرحمن",
+        "en": "Sidi Abdelrahman"
+      },
+      "range": [
+        124,
+        144
+      ],
+      "compounds": [
+        {
+          "km": 142,
+          "name": {
+            "en": "Hacienda Red",
+            "ar": "هاسيندا ريد"
+          },
+          "match": [
+            "hacienda red"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 139,
+          "name": {
+            "en": "Hacienda White",
+            "ar": "هاسيندا وايت"
+          },
+          "match": [
+            "hacienda white"
+          ],
+          "exclude": [],
+          "project": "hacienda-white"
+        },
+        {
+          "km": 138,
+          "name": {
+            "en": "Blumar",
+            "ar": "بلومار"
+          },
+          "match": [
+            "blumar"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 137,
+          "name": {
+            "en": "Amwaj",
+            "ar": "أمواج"
+          },
+          "match": [
+            "amwaj"
+          ],
+          "exclude": [],
+          "project": "amwaj-north-coast"
+        },
+        {
+          "km": 136,
+          "name": {
+            "en": "Telal",
+            "ar": "تلال"
+          },
+          "match": [
+            "telal"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 135,
+          "name": {
+            "en": "Seashell",
+            "ar": "سي شيل"
+          },
+          "match": [
+            "seashell sidi abdel rahman",
+            "seashell sidi abdelrahman"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 135,
+          "name": {
+            "en": "Bianchi Ilios",
+            "ar": "بيانكي إيليوس"
+          },
+          "match": [
+            "bianchi"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 134,
+          "name": {
+            "en": "Shamasi",
+            "ar": "شماسي"
+          },
+          "match": [
+            "shamasi"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 134,
+          "name": {
+            "en": "Masaya",
+            "ar": "مسايا"
+          },
+          "match": [
+            "masaya"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 133,
+          "name": {
+            "en": "Stella Heights",
+            "ar": "ستيلا هايتس"
+          },
+          "match": [
+            "stella heights"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 133,
+          "name": {
+            "en": "Marassi",
+            "ar": "مراسي"
+          },
+          "match": [
+            "marassi"
+          ],
+          "exclude": [],
+          "project": "marassi"
+        },
+        {
+          "km": 126,
+          "name": {
+            "en": "La Vista Cascada",
+            "ar": "لافيستا كاسكادا"
+          },
+          "match": [
+            "la vista cascada"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 125,
+          "name": {
+            "en": "Stella Sidi Abdel Rahman",
+            "ar": "ستيلا سيدي عبد الرحمن"
+          },
+          "match": [
+            "stella sidi abdelrahman",
+            "stella di mare sidi"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 125,
+          "name": {
+            "en": "Diplo 3",
+            "ar": "ديبلو 3"
+          },
+          "match": [
+            "diplo"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 124,
+          "name": {
+            "en": "Hacienda Bay",
+            "ar": "هاسيندا باي"
+          },
+          "match": [
+            "hacienda bay"
+          ],
+          "exclude": [],
+          "project": "hacienda-bay"
+        }
+      ]
+    },
+    {
+      "id": "new-alamein",
+      "name": {
+        "ar": "العلمين الجديدة",
+        "en": "New Alamein"
+      },
+      "range": [
+        100,
+        123
+      ],
+      "compounds": [
+        {
+          "km": 123,
+          "name": {
+            "en": "Zahra",
+            "ar": "زهرة"
+          },
+          "match": [
+            "\\bzahra\\b"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 109,
+          "name": {
+            "en": "IL Latini City Edge",
+            "ar": "إل لاتيني سيتي إيدج"
+          },
+          "match": [
+            "latini"
+          ],
+          "exclude": [
+            "latini sed"
+          ],
+          "project": "il-latini-new-alamein"
+        },
+        {
+          "km": 109,
+          "name": {
+            "en": "IL Latini SED",
+            "ar": "إل لاتيني SED"
+          },
+          "match": [
+            "latini sed"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 109,
+          "name": {
+            "en": "Lagoons Al Alamein",
+            "ar": "لاجونز العلمين"
+          },
+          "match": [
+            "lagoons al alamein"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 108,
+          "name": {
+            "en": "Downtown New Alamein",
+            "ar": "داون تاون العلمين الجديدة"
+          },
+          "match": [
+            "downtown"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 108,
+          "name": {
+            "en": "Palm Hills New Alamein",
+            "ar": "بالم هيلز العلمين الجديدة"
+          },
+          "match": [
+            "palm hills new alamein"
+          ],
+          "exclude": [],
+          "project": "palm-hills-new-alamein"
+        },
+        {
+          "km": 107,
+          "name": {
+            "en": "Mazarine",
+            "ar": "مازارين"
+          },
+          "match": [
+            "mazarine"
+          ],
+          "exclude": [],
+          "project": "mazarine-new-alamein"
+        },
+        {
+          "km": 107,
+          "name": {
+            "en": "The Gate New Alamein",
+            "ar": "ذا جيت العلمين الجديدة"
+          },
+          "match": [
+            "the gate - new alamein",
+            "the gate new alamein"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 106,
+          "name": {
+            "en": "North Edge Towers",
+            "ar": "نورث إيدج تاورز"
+          },
+          "match": [
+            "north edge"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 100,
+          "name": {
+            "en": "The Islands",
+            "ar": "ذا آيلاندز"
+          },
+          "match": [
+            "the islands"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 100,
+          "name": {
+            "en": "Dayz",
+            "ar": "دايز"
+          },
+          "match": [
+            "\\bdayz\\b"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 100,
+          "name": {
+            "en": "Marina",
+            "ar": "مارينا العلمين"
+          },
+          "match": [
+            "marina 2",
+            "marina 8",
+            "^[^,]*\\bmarina \\d"
+          ],
+          "exclude": [],
+          "project": null
+        },
+        {
+          "km": 92,
+          "name": {
+            "en": "Q Bay",
+            "ar": "كيو باي"
+          },
+          "match": [
+            "q bay"
+          ],
+          "exclude": [],
+          "project": null
+        }
+      ]
+    }
+  ]
+}

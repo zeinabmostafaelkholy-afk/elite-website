@@ -1,0 +1,10 @@
+# الصور المرفوعة من لوحة التحكم: ممنوع تشغيل أي سكريبت من الفولدر ده
+<FilesMatch "\.(php|phtml|phar)$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+</FilesMatch>

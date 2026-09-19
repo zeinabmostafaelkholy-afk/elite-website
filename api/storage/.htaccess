@@ -1,0 +1,6 @@
+# منع تحميل ملف العملاء من المتصفح
+Require all denied
+<IfModule !mod_authz_core.c>
+  Order deny,allow
+  Deny from all
+</IfModule>

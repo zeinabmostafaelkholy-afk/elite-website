@@ -1,0 +1,73 @@
+{
+ "_about": "Compound details for the Sahel pages (developer, about, payment plan, gallery). Units live in data/properties.json and point here with their \"compound\" slug.",
+ "compounds": {
+  "alam-al-roum": {
+   "developer": {
+    "en": "Qatari Diar",
+    "ar": "الديار القطرية"
+   },
+   "area": {
+    "en": "Alam Al Roum",
+    "ar": "علم الروم"
+   },
+   "about": {
+    "en": "A 4,902-acre mega resort by Qatari Diar at KM 270 of the North Coast road, east of Marsa Matrouh: 7.2 km of open Mediterranean shoreline, 22 km of lagoons, an 18-hole golf course, three marinas and mixed-use town centres. Current phases: Sealine Estates and Sandside Lagoons.",
+    "ar": "مشروع علم الروم من الديار القطرية على مساحة 4,902 فدان عند الكيلو 270 من طريق الساحل شرق مرسى مطروح: 7.2 كم شاطئ مفتوح على البحر، 22 كم لاجونز، ملعب جولف 18 حفرة، 3 مارينا ومراكز تجارية. المراحل المطروحة حاليًا: سيلاين إستيتس وساندسايد لاجونز."
+   },
+   "plan": {
+    "down": 5,
+    "years": 8
+   },
+   "gallery": [
+    "https://prod-images.nawy.com/processed/inventory/compounds/1891/gallery/Screenshot%202026-09-03%20164612/default.webp",
+    "https://prod-images.nawy.com/processed/inventory/compounds/1891/gallery/Screenshot%202026-09-03%20164720/default.webp",
+    "https://prod-images.nawy.com/processed/inventory/compounds/1891/gallery/Screenshot%202026-09-03%20164815/default.webp",
+    "https://prod-images.nawy.com/processed/inventory/compounds/1891/gallery/Screenshot%202026-09-03%20164800/default.webp",
+    "https://prod-images.nawy.com/processed/inventory/compounds/1891/gallery/Screenshot%202026-09-03%20164735/default.webp",
+    "https://prod-images.nawy.com/processed/inventory/compounds/1891/gallery/Screenshot%202026-09-03%20164646/default.webp",
+    "https://prod-images.nawy.com/processed/inventory/compounds/1891/gallery/Screenshot%202026-09-03%20165006/default.webp",
+    "https://prod-images.nawy.com/processed/inventory/compounds/1891/gallery/Screenshot%202026-09-03%20164856/default.webp"
+   ],
+   "units": []
+  },
+  "jamila": {
+   "developer": {
+    "en": "J Communities (New Jersey Developments)",
+    "ar": "جي كوميونيتيز (نيو جيرسي للتطوير)"
+   },
+   "area": {
+    "en": "Sidi Heneish",
+    "ar": "سيدي حنيش"
+   },
+   "about": {
+    "en": "A 130-acre resort at KM 273 in Sidi Heneish with a 700 m beachfront, 91% green spaces and water features, a clubhouse, spa, gym, lagoon and underground parking. Chalets, apartments, duplexes, studios and villas.",
+    "ar": "قرية جميلة على مساحة 130 فدان عند الكيلو 273 بسيدي حنيش، بشاطئ 700 متر و91% مساحات خضراء ومسطحات مائية، كلوب هاوس وسبا وجيم ولاجون وجراج تحت الأرض. شاليهات وشقق ودوبلكس وستوديو وفيلات."
+   },
+   "gallery": [
+    "https://prod-images.nawy.com/processed/compound_image/image/9514/default.webp",
+    "https://prod-images.nawy.com/processed/compound_image/image/9515/default.webp",
+    "https://prod-images.nawy.com/processed/compound_image/image/9516/default.webp",
+    "https://prod-images.nawy.com/processed/compound_image/image/12878/default.webp",
+    "https://prod-images.nawy.com/processed/compound_image/image/12879/default.webp",
+    "https://prod-images.nawy.com/processed/compound_image/image/12880/default.webp",
+    "https://prod-images.nawy.com/processed/compound_image/image/12882/default.webp"
+   ],
+   "units": []
+  },
+  "almaza-bay": {
+   "developer": {
+    "en": "Travco Properties",
+    "ar": "ترافكو للتطوير العقاري"
+   },
+   "area": {
+    "en": "Sidi Heneish",
+    "ar": "سيدي حنيش"
+   },
+   "about": {
+    "en": "Travco's 6.5 million m² resort at KM 250 in Sidi Heneish: 8 phases, 3,000+ beach homes, five hotels and a 5.5 km private sandy beach.",
+    "ar": "قرية الماظة باي من ترافكو على مساحة 6.5 مليون م² عند الكيلو 250 بسيدي حنيش: 8 مراحل وأكتر من 3,000 وحدة و5 فنادق وشاطئ رملي خاص بطول 5.5 كم."
+   },
+   "units": []
+  }
+ }
+}

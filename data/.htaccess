@@ -1,0 +1,6 @@
+# ملفات البيانات لازم المتصفح يتأكد منها كل مرة، عشان تعديلات لوحة التحكم تظهر فورًا
+<IfModule mod_headers.c>
+  <FilesMatch "\.(js|json)$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+</IfModule>

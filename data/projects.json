@@ -1,0 +1,6005 @@
+[
+ {
+  "slug": "the-one-smouha",
+  "featured": true,
+  "order": 1,
+  "name": {
+   "ar": "ذا ون سموحة",
+   "en": "THE ONE Smouha"
+  },
+  "developer": {
+   "ar": "إلسويير للتطوير العقاري - مجموعة مجاهد",
+   "en": "Elsewhere Developments - Mohamed Megahed Group"
+  },
+  "city": "alexandria",
+  "location": {
+   "ar": "شارع ألبير الأول، سموحة، الإسكندرية",
+   "en": "Albert El Awal St., Smouha, Alexandria"
+  },
+  "landArea": {
+   "ar": "حوالي 12 فدان",
+   "en": "Approx. 12 acres"
+  },
+  "startingPrice": 9500000,
+  "downPayment": 10,
+  "installmentYears": 7,
+  "delivery": "2028",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "apartment",
+   "duplex",
+   "loft",
+   "penthouse"
+  ],
+  "unitAreaFrom": 95,
+  "unitAreaTo": 320,
+  "tagline": {
+   "ar": "عنوان جديد للحياة الراقية في قلب سموحة",
+   "en": "A new address for refined living in the heart of Smouha"
+  },
+  "hero": "assets/img/projects/the-one-smouha-1.jpg",
+  "gallery": [
+   "assets/img/projects/the-one-smouha-1.jpg",
+   "assets/img/projects/the-one-smouha-2.jpg",
+   "assets/img/projects/the-one-smouha-3.jpg",
+   "assets/img/projects/the-one-smouha-4.jpg"
+  ],
+  "map": "https://maps.google.com/maps?q=Smouha%2C%20Alexandria%2C%20Egypt&t=&z=14&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "ذا ون سموحة مجتمع سكني مغلق في واحدة من أرقى مناطق الإسكندرية، على شارع ألبير الأول، على بُعد دقائق من نادي سموحة وحدائق أنطونيادس والمحاور الرئيسية للمدينة. المشروع يجمع بين خصوصية الكومباوند وسهولة الوصول لكل خدمات المدينة.",
+    "التصميم يعتمد على مبانٍ منخفضة الكثافة وسط مساحات خضراء ومسطحات مائية، مع مواقف سيارات مخصصة وأمن على مدار الساعة، إضافة إلى منطقة تجارية وخدمية داخل المشروع تخدم السكان.",
+    "الوحدات تشمل شققًا بمساحات متدرجة ولوفتات ودوبلكسات بحدائق خاصة وبنتهاوس بتراسات واسعة، بتشطيبات فاخرة وتوزيع داخلي عملي يناسب العائلات والمستثمرين على السواء."
+   ],
+   "en": [
+    "THE ONE Smouha is a gated residential community in one of Alexandria's most established districts, on Albert El Awal Street, minutes from Smouha Club, Antoniades Gardens and the city's main corridors. It pairs the privacy of a compound with the convenience of the city.",
+    "The masterplan keeps building density low, setting the blocks among landscaped greenery and water features, with dedicated parking, 24/7 security and an on-site retail and services strip for residents.",
+    "The mix covers apartments across a range of sizes, lofts, garden duplexes and penthouses with generous terraces — delivered with high-end finishes and efficient layouts that suit families and investors alike."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "على شارع ألبير الأول مباشرة",
+    "en": "Directly on Albert El Awal Street"
+   },
+   {
+    "ar": "5 دقائق من نادي سموحة",
+    "en": "5 minutes from Smouha Club"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 7 سنوات",
+    "en": "10% down payment, up to 7 years"
+   },
+   {
+    "ar": "تشطيب فاخر بالكامل",
+    "en": "Fully finished, high-end"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "130 - 150",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "170 - 205",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "لوفت",
+     "en": "Loft"
+    },
+    "area": "95 - 120",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "دوبلكس بحديقة",
+     "en": "Garden Duplex"
+    },
+    "area": "230 - 280",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "بنتهاوس",
+     "en": "Penthouse"
+    },
+    "area": "260 - 320",
+    "beds": 4
+   }
+  ],
+  "amenities": [
+   "greenSpaces",
+   "waterFeatures",
+   "clubhouse",
+   "gym",
+   "kidsArea",
+   "retail",
+   "security",
+   "parking",
+   "mosque",
+   "tracks"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 7
+   },
+   {
+    "dp": 20,
+    "years": 5
+   },
+   {
+    "dp": 40,
+    "years": 3
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "نادي سموحة - 5 دقائق",
+    "en": "Smouha Club - 5 min"
+   },
+   {
+    "ar": "حدائق أنطونيادس - دقيقتان",
+    "en": "Antoniades Gardens - 2 min"
+   },
+   {
+    "ar": "ميدان فيكتور عمانويل - 5 دقائق",
+    "en": "Victor Emmanuel Square - 5 min"
+   },
+   {
+    "ar": "سيتي سنتر الإسكندرية - 15 دقيقة",
+    "en": "City Centre Alexandria - 15 min"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "فين موقع ذا ون سموحة بالظبط؟",
+     "en": "Where exactly is THE ONE Smouha?"
+    },
+    "a": {
+     "ar": "المشروع على شارع ألبير الأول في قلب سموحة بالإسكندرية، قريب من نادي سموحة وحدائق أنطونيادس والمحاور الرئيسية للمدينة.",
+     "en": "The project sits on Albert El Awal Street in the heart of Smouha, Alexandria, close to Smouha Club, Antoniades Gardens and the city's main road network."
+    }
+   },
+   {
+    "q": {
+     "ar": "أنظمة السداد المتاحة إيه؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "أنظمة تبدأ من مقدم 10% وتقسيط يصل إلى 7 سنوات، مع خصومات على الدفع الكاش. الأنظمة بتتحدث من المطور، وفريق إيليت بيوفرلك آخر تحديث قبل الحجز.",
+     "en": "Plans start at a 10% down payment with instalments of up to 7 years, and cash discounts are available. Terms are updated by the developer, and our team confirms the latest before you reserve."
+    }
+   },
+   {
+    "q": {
+     "ar": "الوحدات بتتسلم إمتى؟",
+     "en": "When are units delivered?"
+    },
+    "a": {
+     "ar": "التسليم المتوقع للمراحل الحالية خلال 2028، بتشطيب فاخر كامل.",
+     "en": "Current phases are expected to be delivered in 2028, fully finished."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "ajaza-new-alamein",
+  "featured": true,
+  "order": 2,
+  "name": {
+   "ar": "أجازة العلمين الجديدة",
+   "en": "AJAZA New Alamein"
+  },
+  "developer": {
+   "ar": "إلسويير للتطوير العقاري - مجموعة مجاهد",
+   "en": "Elsewhere Developments - Mohamed Megahed Group"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "الكيلو 115، العلمين الجديدة، الساحل الشمالي",
+   "en": "KM 115, New Alamein, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 74 فدان - نسبة بناء 18% فقط",
+   "en": "Approx. 74 acres - only 18% built-up"
+  },
+  "startingPrice": 7800000,
+  "downPayment": 5,
+  "installmentYears": 8,
+  "delivery": "2029",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "duplex",
+   "penthouse"
+  ],
+  "unitAreaFrom": 70,
+  "unitAreaTo": 260,
+  "tagline": {
+   "ar": "منتجع حضري على مدار السنة أمام أبراج العلمين",
+   "en": "A year-round urban resort facing the Alamein towers"
+  },
+  "hero": "assets/img/projects/ajaza-new-alamein-1.jpg",
+  "gallery": [
+   "assets/img/projects/ajaza-new-alamein-1.jpg",
+   "assets/img/projects/ajaza-new-alamein-2.jpg",
+   "assets/img/projects/ajaza-new-alamein-3.jpg",
+   "assets/img/projects/ajaza-new-alamein-4.jpg"
+  ],
+  "map": "https://maps.google.com/maps?q=New%20Alamein%20City%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "أجازة مشروع ساحلي في قلب العلمين الجديدة عند الكيلو 115، بإطلالة مباشرة على الأبراج الصينية وقربه من أبرز معالم المدينة مثل جامعة العلمين ومطار العلمين الدولي والمارينا.",
+    "المشروع مبني على حوالي 74 فدان بنسبة بناء لا تتعدى 18%، والباقي مساحات خضراء ومسطحات مائية تشمل لاجونة كبيرة تقارب 10 أفدنة، وده اللي بيدي إحساس المنتجع المفتوح.",
+    "الفكرة إن الساحل يبقى مكان معيشة على مدار السنة مش صيف بس: خدمات كاملة، منطقة تجارية، مطاعم وكافيهات، ونادٍ صحي، مع وحدات متشطبة بالكامل بإطلالات على البحر أو اللاجونة."
+   ],
+   "en": [
+    "AJAZA is a coastal development at KM 115 in the heart of New Alamein, with direct views of the landmark towers and easy reach of Alamein University, Alamein International Airport and the marina.",
+    "It spans roughly 74 acres with a built-up ratio of only about 18%. The rest is landscape and water, including a lagoon of around 10 acres, which is what gives the community its open, resort-like feel.",
+    "The brief was to make the coast liveable year-round rather than seasonal: full services, a retail promenade, restaurants and cafés and a wellness club, with fully finished units overlooking the sea or the lagoon."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "إطلالة مباشرة على أبراج العلمين",
+    "en": "Direct views of the Alamein towers"
+   },
+   {
+    "ar": "لاجونة كريستالية حوالي 10 أفدنة",
+    "en": "Crystal lagoon of around 10 acres"
+   },
+   {
+    "ar": "مقدم 5% وتقسيط حتى 8 سنوات",
+    "en": "5% down payment, up to 8 years"
+   },
+   {
+    "ar": "تسليم متشطب بالكامل",
+    "en": "Delivered fully finished"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "70 - 90",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "105 - 130",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "140 - 175",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "دوبلكس",
+     "en": "Duplex"
+    },
+    "area": "180 - 220",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "بنتهاوس",
+     "en": "Penthouse"
+    },
+    "area": "200 - 260",
+    "beds": 3
+   }
+  ],
+  "amenities": [
+   "lagoon",
+   "pools",
+   "beach",
+   "clubhouse",
+   "gym",
+   "retail",
+   "restaurants",
+   "kidsArea",
+   "security",
+   "medical",
+   "tracks",
+   "parking"
+  ],
+  "payment": [
+   {
+    "dp": 5,
+    "years": 8
+   },
+   {
+    "dp": 10,
+    "years": 7
+   },
+   {
+    "dp": 25,
+    "years": 5
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "أبراج العلمين - دقائق",
+    "en": "Alamein Towers - minutes away"
+   },
+   {
+    "ar": "جامعة العلمين الدولية",
+    "en": "Alamein International University"
+   },
+   {
+    "ar": "مطار العلمين الدولي",
+    "en": "Alamein International Airport"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "أجازة مناسب للسكن طول السنة؟",
+     "en": "Is AJAZA suitable for year-round living?"
+    },
+    "a": {
+     "ar": "أيوه. المشروع في العلمين الجديدة اللي بقت مدينة متكاملة بخدمات وجامعات ومستشفيات، وفيه خدمات داخلية شغالة على مدار السنة مش موسمية.",
+     "en": "Yes. New Alamein now works as a full city with universities, hospitals and services, and the project's own amenities are designed to operate year-round rather than seasonally."
+    }
+   },
+   {
+    "q": {
+     "ar": "أقل مقدم لحجز وحدة كام؟",
+     "en": "What is the lowest down payment?"
+    },
+    "a": {
+     "ar": "الأنظمة الحالية بتبدأ من 5% مقدم وتقسيط حتى 8 سنوات، مع خصم مميز للكاش. الأرقام بتتغير حسب المرحلة، فتواصل معانا للتأكيد.",
+     "en": "Current plans start from 5% with instalments up to 8 years, plus a notable cash discount. Figures change by phase, so contact us to confirm."
+    }
+   },
+   {
+    "q": {
+     "ar": "الوحدات بتتسلم متشطبة؟",
+     "en": "Are units delivered finished?"
+    },
+    "a": {
+     "ar": "أيوه، التسليم بتشطيب كامل فاخر خلال 3 إلى 4 سنوات من تاريخ التعاقد.",
+     "en": "Yes — fully finished delivery within three to four years of contract date."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "creeks-alexandria",
+  "featured": true,
+  "order": 3,
+  "name": {
+   "ar": "كريكس الإسكندرية",
+   "en": "CREEKS Alexandria"
+  },
+  "developer": {
+   "ar": "إلسويير للتطوير العقاري - مجموعة مجاهد",
+   "en": "Elsewhere Developments - Mohamed Megahed Group"
+  },
+  "city": "alexandria",
+  "location": {
+   "ar": "الطريق الدائري، الإسكندرية",
+   "en": "Ring Road, Alexandria"
+  },
+  "landArea": {
+   "ar": "مخطط عمراني حول بحيرة طبيعية وشبكة قنوات مائية",
+   "en": "A masterplan shaped around an existing lake and a network of canals"
+  },
+  "startingPrice": 14500000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2030",
+  "status": {
+   "ar": "مرحلة جاردنز - الطرح الحالي",
+   "en": "Gardens - current release"
+  },
+  "types": [
+   "villa",
+   "townhouse",
+   "twinhouse",
+   "apartment"
+  ],
+  "unitAreaFrom": 193,
+  "unitAreaTo": 364,
+  "tagline": {
+   "ar": "حي على الماء مستوحى من علاقة الإسكندرية الأزلية بالبحر",
+   "en": "A waterscape neighbourhood drawn from Alexandria's bond with the sea"
+  },
+  "hero": "assets/img/projects/creeks-alexandria-1.webp",
+  "gallery": [
+   "assets/img/projects/creeks-alexandria-1.webp",
+   "assets/img/projects/creeks-alexandria-2.webp",
+   "assets/img/projects/creeks-alexandria-3.webp",
+   "assets/img/projects/creeks-alexandria-4.webp",
+   "assets/img/projects/creeks-alexandria-5.webp",
+   "assets/img/projects/creeks-alexandria-6.webp"
+  ],
+  "map": "https://maps.google.com/maps?q=Alexandria%20Ring%20Road%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "كريكس مشروع من إلسويير (مجموعة محمد مجاهد) على الطريق الدائري بالإسكندرية. المخطط العام اتصمم بواسطة Die Stadt تحت فكرة \"من البحيرة للبحر\": بحيرة موجودة فعلًا في الموقع وشريط أخضر متصل هما اللي بيحددوا حركة الناس وشكل الأحياء، مش شبكة الطرق. المباني بتقع جوه المناظر الطبيعية مش جنبها.",
+    "العمارة بلغة متوسطية معاصرة من F&R Partnership و Laithy + Architects: أقواس هادية، حجر فاتح، خشب دافي، وواجهات زجاجية واسعة بتربط الداخل بالحديقة. الوحدات في مرحلة جاردنز بتبدأ من جاردن فلو فيلا 193 متر وتاون هاوس 205 و208 متر، وتوين فيلا 230 و237 متر، وروف توب فيلا 252 متر، لحد الفيلات المستقلة 228 و269 و334 و352 و364 متر — كلها بحدائق ومواقف خاصة وغرفة خادمة في المساحات الأكبر.",
+    "مرحلة جاردنز هي القلب الأخضر للمشروع: حدائق مظللة ومساحات مفتوحة، ومناطق زراعة مخصصة للسكان يزرعوا فيها نباتات وأعشاب، وماركت مجتمعي صغير لتبادل المنتج — تجربة أقرب لـ farm-to-community.",
+    "الخدمات داخل المشروع تشمل نادي إلسويير الرياضي (بادل، بيكل بول، سلة، طائرة، كرة ماء، جيم وتدريب وظيفي، بيلاتس ويوجا) مع أكاديمية كرة قدم Brooke House وأكاديمية بادل بالتعاون مع الاتحاد المصري للبادل، ومدرسة Brooke House College البريطانية، بجانب منطقة أعمال وتجارية."
+   ],
+   "en": [
+    "CREEKS is an Elsewhere Developments (Mohamed Megahed Group) project on Alexandria's Ring Road. The masterplan, by Die Stadt, follows a single idea — From the Lake to the Sea: an existing lake and a continuous green spine, rather than a road grid, determine how people move and how the neighbourhoods take shape. Buildings sit within the landscape instead of beside it.",
+    "The architecture, by F&R Partnership and Laithy + Architects, speaks a contemporary Mediterranean language: quiet arches, pale stone, warm timber and generous glazing that ties each interior to its garden. The Gardens release runs from a 193 sqm Garden Flow Villa and townhouses at 205 and 208 sqm, through twin villas at 230 and 237 sqm and a 252 sqm roof-top villa, up to standalone villas at 228, 269, 334, 352 and 364 sqm — all with private gardens and parking, and maid's quarters in the larger layouts.",
+    "Gardens is the green heart of the community: shaded gardens and open lawns, dedicated cultivation plots where residents grow plants and herbs, and a small community market for exchanging what they produce — a farm-to-community way of living.",
+    "On-site life includes the Elsewhere Sporting Club (padel, pickleball, basketball, volleyball, water polo, a full gym, functional and cross training, pilates and yoga) with a Brooke House football academy and a padel academy in association with the Egyptian Padel Federation, the UK-based Brooke House College, and a business and retail district."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "مخطط عام من Die Stadt: من البحيرة للبحر",
+    "en": "Masterplan by Die Stadt: From the Lake to the Sea"
+   },
+   {
+    "ar": "قنوات مائية وشريط أخضر متصل بين الأحياء",
+    "en": "Canals and a continuous green spine linking the neighbourhoods"
+   },
+   {
+    "ar": "نادي إلسويير الرياضي + أكاديمية بادل بالتعاون مع الاتحاد المصري للبادل",
+    "en": "Elsewhere Sporting Club with a padel academy in association with the Egyptian Padel Federation"
+   },
+   {
+    "ar": "مدرسة Brooke House College البريطانية داخل المشروع",
+    "en": "Brooke House College, a UK school, inside the community"
+   },
+   {
+    "ar": "مناطق زراعة للسكان وماركت مجتمعي في مرحلة جاردنز",
+    "en": "Resident cultivation plots and a community market in the Gardens phase"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "جاردن فلو فيلا",
+     "en": "Garden Flow Villa"
+    },
+    "area": "193",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "205 - 208",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "توين فيلا",
+     "en": "Twin Villa"
+    },
+    "area": "230 - 237",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "روف توب فيلا",
+     "en": "Roof Top Villa"
+    },
+    "area": "252",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة LSV-4",
+     "en": "Standalone Villa LSV-4"
+    },
+    "area": "228",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة LSV-2",
+     "en": "Standalone Villa LSV-2"
+    },
+    "area": "269",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة LSV-1",
+     "en": "Standalone Villa LSV-1"
+    },
+    "area": "334 - 364",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة LSV-3",
+     "en": "Standalone Villa LSV-3"
+    },
+    "area": "352",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "lagoon",
+   "greenSpaces",
+   "clubhouse",
+   "gym",
+   "sports",
+   "school",
+   "retail",
+   "restaurants",
+   "kidsArea",
+   "tracks",
+   "security",
+   "coworking"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 15,
+    "years": 7
+   },
+   {
+    "dp": 30,
+    "years": 5
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "سيتي سنتر الإسكندرية - على الدائري",
+    "en": "City Centre Alexandria - on the Ring Road"
+   },
+   {
+    "ar": "طريق الإسكندرية القاهرة الصحراوي",
+    "en": "Alexandria - Cairo Desert Road"
+   },
+   {
+    "ar": "برج العرب ومطار برج العرب",
+    "en": "Borg El Arab and its airport"
+   },
+   {
+    "ar": "سموحة وقلب المدينة",
+    "en": "Smouha and the city centre"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "إيه اللي يميز كريكس عن كومباوندات الإسكندرية التانية؟",
+     "en": "What sets CREEKS apart from other Alexandria compounds?"
+    },
+    "a": {
+     "ar": "المخطط اتبنى حوالين بحيرة وقناة مائية موجودة، فالماء جزء من التخطيط نفسه مش خدمة مضافة، بجانب نادٍ رياضي ومدرسة بريطانية ومنطقة أعمال جوه المشروع.",
+     "en": "The plan was generated by an existing lake and a canal, so water is structural rather than an added amenity — alongside a sporting club, a UK school and a business district inside the community."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه أنواع الوحدات المتاحة؟",
+     "en": "Which unit types are available?"
+    },
+    "a": {
+     "ar": "فيلات مستقلة من 269 إلى 364 متر، توين فيلا 230 و237 متر، تاون هاوس 205 و208 متر، وجاردن فلو فيلا 193 متر، بجانب شقق بحدائق أو تراسات.",
+     "en": "Standalone villas from 269 to 364 sqm, twin villas at 230 and 237 sqm, townhouses at 205 and 208 sqm, garden flow villas at 193 sqm, plus apartments with private gardens or roof terraces."
+    }
+   },
+   {
+    "q": {
+     "ar": "المشروع مناسب للعائلات؟",
+     "en": "Is it a good fit for families?"
+    },
+    "a": {
+     "ar": "أيوه، خصوصًا إن فيه مدرسة Brooke House College جوه المشروع، ونادي رياضي بأكاديميات للأطفال، ومسارات مشي وعجل آمنة بين الأحياء.",
+     "en": "Yes — Brooke House College sits inside the community, the sporting club runs youth academies, and safe walking and cycling routes connect the neighbourhoods."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "marassi",
+  "featured": true,
+  "order": 4,
+  "name": {
+   "ar": "مراسي",
+   "en": "Marassi"
+  },
+  "developer": {
+   "ar": "إعمار مصر",
+   "en": "Emaar Misr"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "سيدي عبد الرحمن، الكيلو 125، الساحل الشمالي",
+   "en": "Sidi Abdel Rahman, KM 125, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 1544 فدان",
+   "en": "Approx. 1,544 acres"
+  },
+  "startingPrice": 16000000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered phases and phases under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "twinhouse",
+   "townhouse"
+  ],
+  "unitAreaFrom": 85,
+  "unitAreaTo": 500,
+  "tagline": {
+   "ar": "الوجهة الأشهر على شواطئ سيدي عبد الرحمن",
+   "en": "The best-known destination on Sidi Abdel Rahman bay"
+  },
+  "hero": "assets/img/projects/marassi-1.svg",
+  "gallery": [
+   "assets/img/projects/marassi-1.svg",
+   "assets/img/projects/marassi-2.svg",
+   "assets/img/projects/marassi-3.svg",
+   "assets/img/projects/marassi-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Marassi%2C%20Sidi%20Abdel%20Rahman%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "مراسي من إعمار مصر واحدة من أكبر الوجهات الساحلية في مصر، على خليج سيدي عبد الرحمن بشواطئ رملية وميه فيروزية بتفضل هادية أغلب السنة.",
+    "المشروع مقسّم لأحياء بطابع معماري مختلف مستوحى من مدن البحر المتوسط، وبيضم مارينا لليخوت وملعب جولف وفنادق عالمية ومنطقة مطاعم ومحلات ومركز طبي، فبيشتغل كمدينة متكاملة مش قرية موسمية.",
+    "الوحدات بتتنوع بين شاليهات وشقق بإطلالة على البحر أو اللاجونة، وفيلات وتوين هاوس وتاون هاوس في الأحياء الداخلية."
+   ],
+   "en": [
+    "Marassi by Emaar Misr is one of Egypt's largest coastal destinations, set on Sidi Abdel Rahman bay with white sand and calm turquoise water for most of the year.",
+    "It is organised into districts, each with its own Mediterranean-inspired character, and includes a yacht marina, a golf course, international hotels, a dining and retail hub and a medical centre — so it works as a full town rather than a seasonal village.",
+    "Units range from chalets and apartments overlooking the sea or lagoons to villas, twin houses and townhouses in the inner districts."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "مارينا لليخوت وملعب جولف",
+    "en": "Yacht marina and golf course"
+   },
+   {
+    "ar": "فنادق عالمية داخل المشروع",
+    "en": "International hotels on site"
+   },
+   {
+    "ar": "شاطئ خاص بمياه هادية",
+    "en": "Private beach with calm water"
+   },
+   {
+    "ar": "خدمات وصيانة على مدار السنة",
+    "en": "Year-round services and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "85 - 110",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "115 - 150",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "150 - 200",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "200 - 260",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "300 - 500",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "marina",
+   "golf",
+   "lagoon",
+   "pools",
+   "restaurants",
+   "retail",
+   "medical",
+   "security",
+   "kidsArea",
+   "gym",
+   "sports"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "العلمين الجديدة - 15 دقيقة",
+    "en": "New Alamein - 15 min"
+   },
+   {
+    "ar": "مطار العلمين الدولي",
+    "en": "Alamein International Airport"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "مراسي فين بالظبط؟",
+     "en": "Where is Marassi located?"
+    },
+    "a": {
+     "ar": "عند الكيلو 125 على الطريق الساحلي في منطقة سيدي عبد الرحمن، على بُعد دقائق من العلمين الجديدة.",
+     "en": "At KM 125 on the coastal road in Sidi Abdel Rahman, minutes from New Alamein."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، فيه سوق ريسيل نشط في مراسي بأسعار وأنظمة سداد مختلفة عن المطور. تواصل معانا نبعتلك المتاح حاليًا.",
+     "en": "Yes, Marassi has an active resale market with pricing and payment terms that differ from the developer's. Contact us for current availability."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "hacienda-bay",
+  "featured": true,
+  "order": 5,
+  "name": {
+   "ar": "هاسيندا باي",
+   "en": "Hacienda Bay"
+  },
+  "developer": {
+   "ar": "بالم هيلز للتعمير",
+   "en": "Palm Hills Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "سيدي عبد الرحمن، الكيلو 200، الساحل الشمالي",
+   "en": "Sidi Abdel Rahman, KM 200, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 593 فدان",
+   "en": "Approx. 593 acres"
+  },
+  "startingPrice": 13500000,
+  "downPayment": 10,
+  "installmentYears": 7,
+  "delivery": "2026",
+  "status": {
+   "ar": "مستلم بالكامل تقريبًا",
+   "en": "Largely delivered"
+  },
+  "types": [
+   "chalet",
+   "villa",
+   "twinhouse",
+   "townhouse"
+  ],
+  "unitAreaFrom": 90,
+  "unitAreaTo": 450,
+  "tagline": {
+   "ar": "قرية ناضجة بمجتمع ثابت وخدمات شغالة طول السنة",
+   "en": "A mature village with a settled community and year-round services"
+  },
+  "hero": "assets/img/projects/hacienda-bay-1.svg",
+  "gallery": [
+   "assets/img/projects/hacienda-bay-1.svg",
+   "assets/img/projects/hacienda-bay-2.svg",
+   "assets/img/projects/hacienda-bay-3.svg",
+   "assets/img/projects/hacienda-bay-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Hacienda%20Bay%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "هاسيندا باي من بالم هيلز واحدة من أنجح القرى في الساحل الشمالي، وميزتها إنها مجتمع مكتمل: أغلب الوحدات مستلمة، الخدمات شغالة، والصيانة منتظمة.",
+    "القرية فيها منطقة سوق ومطاعم وكافيهات وبيتش كلوب وملاعب رياضية ومسارات مشي، بجانب شاطئ واسع بمياه ضحلة مناسبة للعائلات.",
+    "الوحدات بتتنوع بين شاليهات صغيرة وفيلات مستقلة بحدائق واسعة، والسوق فيها نشط جدًا للريسيل والإيجار الموسمي."
+   ],
+   "en": [
+    "Hacienda Bay by Palm Hills is one of the North Coast's most successful villages, and its advantage is maturity: most units are handed over, the services run, and maintenance is consistent.",
+    "It has a market and dining district, cafés, a beach club, sports courts and walking trails, plus a wide beach with shallow water that suits families.",
+    "The mix runs from compact chalets to standalone villas with large gardens, and it has one of the busiest resale and seasonal rental markets on the coast."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "قرية مستلمة وخدمات مستقرة",
+    "en": "Delivered village with stable services"
+   },
+   {
+    "ar": "سوق ومطاعم وبيتش كلوب",
+    "en": "Market, dining and beach club"
+   },
+   {
+    "ar": "شاطئ عائلي بمياه ضحلة",
+    "en": "Family beach with shallow water"
+   },
+   {
+    "ar": "عائد إيجار موسمي قوي",
+    "en": "Strong seasonal rental returns"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "90 - 130",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "130 - 175",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "180 - 240",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin House"
+    },
+    "area": "220 - 300",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "300 - 450",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "restaurants",
+   "retail",
+   "sports",
+   "kidsArea",
+   "gym",
+   "security",
+   "medical",
+   "tracks"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 7
+   },
+   {
+    "dp": 25,
+    "years": 4
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "سيدي عبد الرحمن",
+    "en": "Sidi Abdel Rahman"
+   },
+   {
+    "ar": "العلمين الجديدة - 20 دقيقة",
+    "en": "New Alamein - 20 min"
+   },
+   {
+    "ar": "فوكا رود",
+    "en": "Fouka Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "هاسيندا باي مناسبة للاستثمار؟",
+     "en": "Is Hacienda Bay good for investment?"
+    },
+    "a": {
+     "ar": "القرية مستلمة وسمعتها قوية، فالإيجار الموسمي فيها مرتفع نسبيًا وسوق الريسيل نشط، وده بيخلي دخول الاستثمار فيها أقل مخاطرة من مشروع لسه على الورق.",
+     "en": "It is delivered with a strong reputation, so seasonal rents hold up well and resale is liquid — lower risk than buying into a project still on paper."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "hacienda-west",
+  "featured": false,
+  "order": 6,
+  "name": {
+   "ar": "هاسيندا ويست",
+   "en": "Hacienda West"
+  },
+  "developer": {
+   "ar": "بالم هيلز للتعمير",
+   "en": "Palm Hills Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الكيلو 200+، الساحل الشمالي",
+   "en": "Ras El Hekma, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 300 فدان",
+   "en": "Approx. 300 acres"
+  },
+  "startingPrice": 11000000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2028",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "chalet",
+   "villa",
+   "twinhouse",
+   "townhouse"
+  ],
+  "unitAreaFrom": 95,
+  "unitAreaTo": 400,
+  "tagline": {
+   "ar": "امتداد هاسيندا في أهدأ بقعة على رأس الحكمة",
+   "en": "The Hacienda line, on the quietest stretch of Ras El Hekma"
+  },
+  "hero": "assets/img/projects/hacienda-west-1.svg",
+  "gallery": [
+   "assets/img/projects/hacienda-west-1.svg",
+   "assets/img/projects/hacienda-west-2.svg",
+   "assets/img/projects/hacienda-west-3.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20Egypt&t=&z=11&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "هاسيندا ويست بتكمل سلسلة هاسيندا في منطقة رأس الحكمة، اللي بقت من أكتر مناطق الساحل طلبًا بعد مشروعات التطوير الكبرى فيها.",
+    "التصميم بيعتمد على تدرج الأرض ناحية البحر، فأغلب الوحدات ليها إطلالة، مع بيتش كلوب وحمامات سباحة ومسارات ومناطق مطاعم.",
+    "بتناسب اللي بيدور على منطقة جديدة بأسعار أقل من القرى المستلمة مع نفس مستوى التطوير والخدمات."
+   ],
+   "en": [
+    "Hacienda West extends the Hacienda line into Ras El Hekma, one of the most sought-after stretches of the coast after the large development announcements there.",
+    "The layout steps down toward the sea so most units get a view, with a beach club, pools, trails and dining clusters.",
+    "It suits buyers who want a newer address at a lower entry price than the delivered villages, with the same operator standards."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "موقع رأس الحكمة الصاعد",
+    "en": "In fast-appreciating Ras El Hekma"
+   },
+   {
+    "ar": "تدرج معماري يضمن الإطلالة",
+    "en": "Terraced layout for sea views"
+   },
+   {
+    "ar": "إدارة وتشغيل بالم هيلز",
+    "en": "Operated by Palm Hills"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "95 - 135",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "135 - 180",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin House"
+    },
+    "area": "210 - 280",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "280 - 400",
+    "beds": 4
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "restaurants",
+   "retail",
+   "kidsArea",
+   "gym",
+   "security",
+   "tracks"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "فوكا رود",
+    "en": "Fouka Road"
+   },
+   {
+    "ar": "مرسى مطروح",
+    "en": "Marsa Matrouh"
+   }
+  ],
+  "faq": []
+ },
+ {
+  "slug": "mountain-view-ras-el-hekma",
+  "featured": false,
+  "order": 7,
+  "name": {
+   "ar": "ماونتن فيو رأس الحكمة",
+   "en": "Mountain View Ras El Hekma"
+  },
+  "developer": {
+   "ar": "ماونتن فيو",
+   "en": "Mountain View"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الساحل الشمالي",
+   "en": "Ras El Hekma, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 200 فدان",
+   "en": "Approx. 200 acres"
+  },
+  "startingPrice": 9500000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2028",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "chalet",
+   "villa",
+   "twinhouse"
+  ],
+  "unitAreaFrom": 90,
+  "unitAreaTo": 350,
+  "tagline": {
+   "ar": "تصميم جزيرة وخليج شبه مغلق بمياه هادية",
+   "en": "An island concept on a sheltered, calm-water bay"
+  },
+  "hero": "assets/img/projects/mountain-view-ras-el-hekma-1.svg",
+  "gallery": [
+   "assets/img/projects/mountain-view-ras-el-hekma-1.svg",
+   "assets/img/projects/mountain-view-ras-el-hekma-2.svg",
+   "assets/img/projects/mountain-view-ras-el-hekma-3.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20Egypt&t=&z=11&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "ماونتن فيو رأس الحكمة بيقدّم مفهوم مختلف في الساحل: تصميم قايم على جزر ولاجونات داخلية وخليج بمياه هادية جدًا مناسبة للعائلات والرياضات المائية.",
+    "المشروع فيه مناطق ترفيهية متنوعة وبيتش كلوب ومطاعم، مع تركيز على الطابع الطبيعي والمساحات المفتوحة.",
+    "الوحدات بتشمل شاليهات وفيلات وتوين هاوس، وأغلبها بإطلالة على الماء."
+   ],
+   "en": [
+    "Mountain View Ras El Hekma takes a different line on the coast: an island-led layout with inner lagoons and a sheltered bay whose water stays calm enough for families and watersports.",
+    "It mixes leisure zones, a beach club and dining, with a strong emphasis on open natural landscape.",
+    "Units include chalets, twin houses and villas, most with a water view."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "خليج بمياه هادية جدًا",
+    "en": "Exceptionally calm bay"
+   },
+   {
+    "ar": "لاجونات وجزر داخلية",
+    "en": "Inner lagoons and islands"
+   },
+   {
+    "ar": "مساحات مفتوحة واسعة",
+    "en": "Generous open landscape"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "90 - 125",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "125 - 170",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin House"
+    },
+    "area": "200 - 260",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا",
+     "en": "Villa"
+    },
+    "area": "260 - 350",
+    "beds": 4
+   }
+  ],
+  "amenities": [
+   "beach",
+   "lagoon",
+   "pools",
+   "restaurants",
+   "kidsArea",
+   "sports",
+   "security"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "فوكا رود",
+    "en": "Fouka Road"
+   }
+  ],
+  "faq": []
+ },
+ {
+  "slug": "seashore-ras-el-hekma",
+  "featured": false,
+  "order": 8,
+  "name": {
+   "ar": "سي شور رأس الحكمة",
+   "en": "Seashore Ras El Hekma"
+  },
+  "developer": {
+   "ar": "هايد بارك للتطوير العقاري",
+   "en": "Hyde Park Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الكيلو 200، الساحل الشمالي",
+   "en": "Ras El Hekma, KM 200, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 205 فدان",
+   "en": "Approx. 205 acres"
+  },
+  "startingPrice": 10500000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "chalet",
+   "villa",
+   "townhouse",
+   "twinhouse"
+  ],
+  "unitAreaFrom": 85,
+  "unitAreaTo": 380,
+  "tagline": {
+   "ar": "واجهة بحرية طويلة وتصميم متدرج على البحر",
+   "en": "A long sea frontage and a stepped, sea-facing layout"
+  },
+  "hero": "assets/img/projects/seashore-ras-el-hekma-1.svg",
+  "gallery": [
+   "assets/img/projects/seashore-ras-el-hekma-1.svg",
+   "assets/img/projects/seashore-ras-el-hekma-2.svg",
+   "assets/img/projects/seashore-ras-el-hekma-3.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20Egypt&t=&z=11&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "سي شور من هايد بارك في رأس الحكمة بواجهة بحرية طويلة وتصميم متدرج بيضمن إن نسبة كبيرة من الوحدات ليها رؤية للبحر.",
+    "الخدمات بتشمل بيتش كلوب ومنطقة مطاعم ومحلات وحمامات سباحة ومناطق أطفال، مع مسارات للمشي والدراجات.",
+    "المشروع بيناسب اللي عايز شاليه بإطلالة بحر بسعر أقل من مناطق سيدي عبد الرحمن الأقدم."
+   ],
+   "en": [
+    "Seashore by Hyde Park sits on a long stretch of Ras El Hekma shoreline, terraced so that a high share of units keep a sea view.",
+    "Amenities include a beach club, a dining and retail cluster, pools and kids' zones, with walking and cycling routes throughout.",
+    "It suits buyers who want a sea-view chalet at a lower entry point than the older Sidi Abdel Rahman addresses."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "واجهة بحرية طويلة",
+    "en": "Long sea frontage"
+   },
+   {
+    "ar": "نسبة عالية من الوحدات بإطلالة بحر",
+    "en": "High share of sea-view units"
+   },
+   {
+    "ar": "أنظمة سداد ممتدة",
+    "en": "Extended payment plans"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "85 - 105",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "110 - 145",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "180 - 230",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا",
+     "en": "Villa"
+    },
+    "area": "260 - 380",
+    "beds": 4
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "restaurants",
+   "retail",
+   "kidsArea",
+   "gym",
+   "security",
+   "tracks"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "فوكا رود",
+    "en": "Fouka Road"
+   }
+  ],
+  "faq": []
+ },
+ {
+  "slug": "mazarine-new-alamein",
+  "featured": false,
+  "order": 9,
+  "name": {
+   "ar": "مازارين العلمين الجديدة",
+   "en": "Mazarine New Alamein"
+  },
+  "developer": {
+   "ar": "سيتي إيدج للتطوير العقاري",
+   "en": "City Edge Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "العلمين الجديدة، الساحل الشمالي",
+   "en": "New Alamein City, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 707 فدان",
+   "en": "Approx. 707 acres"
+  },
+  "startingPrice": 8500000,
+  "downPayment": 10,
+  "installmentYears": 10,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered and under-construction phases"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "twinhouse"
+  ],
+  "unitAreaFrom": 100,
+  "unitAreaTo": 400,
+  "tagline": {
+   "ar": "مشروع حكومي على قلب العلمين بمساحات ضخمة",
+   "en": "A large state-backed address at the heart of New Alamein"
+  },
+  "hero": "assets/img/projects/mazarine-new-alamein-1.svg",
+  "gallery": [
+   "assets/img/projects/mazarine-new-alamein-1.svg",
+   "assets/img/projects/mazarine-new-alamein-2.svg",
+   "assets/img/projects/mazarine-new-alamein-3.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=New%20Alamein%20City%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "مازارين من سيتي إيدج (الذراع التطويرية المرتبطة بوزارة الإسكان) واحد من أكبر مشروعات العلمين الجديدة، بمساحة تتخطى 700 فدان وواجهة بحرية طويلة.",
+    "المشروع بيقدّم تنوع كبير في الوحدات ما بين شاليهات وشقق وفيلات، وبأنظمة تقسيط طويلة توصل لـ 10 سنوات.",
+    "قربه من الأبراج والمارينا والجامعة بيخليه من أنشط مناطق إعادة البيع والإيجار في العلمين."
+   ],
+   "en": [
+    "Mazarine by City Edge — the development arm linked to the housing ministry — is one of New Alamein's largest projects, at over 700 acres with a long sea frontage.",
+    "It offers a wide unit mix from chalets and apartments to villas, with instalment plans that stretch to ten years.",
+    "Its proximity to the towers, the marina and the university keeps resale and rental activity high."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "تقسيط يصل إلى 10 سنوات",
+    "en": "Instalments up to 10 years"
+   },
+   {
+    "ar": "واجهة بحرية طويلة",
+    "en": "Long sea frontage"
+   },
+   {
+    "ar": "قرب من جامعة العلمين والمارينا",
+    "en": "Near Alamein University and marina"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "100 - 140",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "140 - 190",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin House"
+    },
+    "area": "220 - 300",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا",
+     "en": "Villa"
+    },
+    "area": "300 - 400",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "retail",
+   "restaurants",
+   "security",
+   "kidsArea",
+   "medical",
+   "mosque"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 10
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "أبراج العلمين",
+    "en": "Alamein Towers"
+   },
+   {
+    "ar": "جامعة العلمين الدولية",
+    "en": "Alamein International University"
+   },
+   {
+    "ar": "مطار العلمين",
+    "en": "Alamein Airport"
+   }
+  ],
+  "faq": []
+ },
+ {
+  "slug": "sawary-alexandria",
+  "featured": false,
+  "order": 10,
+  "name": {
+   "ar": "سواري الإسكندرية",
+   "en": "Sawary Alexandria"
+  },
+  "developer": {
+   "ar": "الشركة السعودية المصرية للتنمية",
+   "en": "Saudi Egyptian Developers"
+  },
+  "city": "alexandria",
+  "location": {
+   "ar": "بجوار سيتي سنتر الإسكندرية، طريق الإسكندرية القاهرة الصحراوي",
+   "en": "Next to City Centre Alexandria, Alexandria - Cairo Desert Road"
+  },
+  "landArea": {
+   "ar": "حوالي 417 فدان",
+   "en": "Approx. 417 acres"
+  },
+  "startingPrice": 7500000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered and under-construction phases"
+  },
+  "types": [
+   "apartment",
+   "villa",
+   "townhouse",
+   "twinhouse",
+   "duplex"
+  ],
+  "unitAreaFrom": 110,
+  "unitAreaTo": 400,
+  "tagline": {
+   "ar": "أكبر كومباوند متكامل في الإسكندرية على بحيرة مريوط",
+   "en": "Alexandria's largest integrated compound, overlooking Lake Mariout"
+  },
+  "hero": "assets/img/projects/sawary-alexandria-1.svg",
+  "gallery": [
+   "assets/img/projects/sawary-alexandria-1.svg",
+   "assets/img/projects/sawary-alexandria-2.svg",
+   "assets/img/projects/sawary-alexandria-3.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Sawary%20Alexandria%2C%20Egypt&t=&z=13&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "سواري كومباوند متكامل على بحيرة مريوط بجوار سيتي سنتر الإسكندرية مباشرة، وده بيخليه من أسهل الكومباوندات وصولًا لخدمات المدينة.",
+    "المشروع فيه مدارس ونادٍ اجتماعي ومنطقة تجارية وممشى ومناطق خضراء واسعة، وبيشتغل كمجتمع سكني دائم مش موسمي.",
+    "الوحدات بتشمل شقق ودوبلكس وتاون هاوس وفيلات، وفيه مراحل مستلمة فعليًا وناس ساكنة."
+   ],
+   "en": [
+    "Sawary is an integrated compound on Lake Mariout, right beside City Centre Alexandria, which makes it one of the easiest addresses in the city for day-to-day errands.",
+    "It includes schools, a social club, a retail strip, a promenade and large landscaped areas, and functions as a permanent residential community rather than a seasonal one.",
+    "The mix covers apartments, duplexes, townhouses and villas, with several phases already delivered and occupied."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "بجوار سيتي سنتر الإسكندرية",
+    "en": "Beside City Centre Alexandria"
+   },
+   {
+    "ar": "إطلالة على بحيرة مريوط",
+    "en": "Lake Mariout views"
+   },
+   {
+    "ar": "مدارس ونادٍ اجتماعي داخل المشروع",
+    "en": "Schools and a social club on site"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "110 - 145",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "150 - 200",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "دوبلكس",
+     "en": "Duplex"
+    },
+    "area": "220 - 280",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا",
+     "en": "Villa"
+    },
+    "area": "280 - 400",
+    "beds": 4
+   }
+  ],
+  "amenities": [
+   "greenSpaces",
+   "clubhouse",
+   "school",
+   "retail",
+   "restaurants",
+   "security",
+   "kidsArea",
+   "gym",
+   "medical",
+   "mosque"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "سيتي سنتر الإسكندرية - دقائق",
+    "en": "City Centre Alexandria - minutes"
+   },
+   {
+    "ar": "الطريق الدائري",
+    "en": "Ring Road"
+   },
+   {
+    "ar": "برج العرب",
+    "en": "Borg El Arab"
+   }
+  ],
+  "faq": []
+ },
+ {
+  "slug": "alex-west",
+  "featured": false,
+  "order": 11,
+  "name": {
+   "ar": "أليكس ويست",
+   "en": "Alex West"
+  },
+  "developer": {
+   "ar": "سوديك",
+   "en": "SODIC"
+  },
+  "city": "alexandria",
+  "location": {
+   "ar": "طريق الإسكندرية القاهرة الصحراوي، الإسكندرية",
+   "en": "Alexandria - Cairo Desert Road, Alexandria"
+  },
+  "landArea": {
+   "ar": "حوالي 350 فدان",
+   "en": "Approx. 350 acres"
+  },
+  "startingPrice": 9000000,
+  "downPayment": 10,
+  "installmentYears": 7,
+  "delivery": "2026",
+  "status": {
+   "ar": "مستلم جزئيًا",
+   "en": "Partially delivered"
+  },
+  "types": [
+   "apartment",
+   "villa",
+   "townhouse",
+   "twinhouse"
+  ],
+  "unitAreaFrom": 120,
+  "unitAreaTo": 420,
+  "tagline": {
+   "ar": "مجتمع سكني ناضج بمدرسة دولية ونادٍ",
+   "en": "A mature community with an international school and club"
+  },
+  "hero": "assets/img/projects/alex-west-1.svg",
+  "gallery": [
+   "assets/img/projects/alex-west-1.svg",
+   "assets/img/projects/alex-west-2.svg",
+   "assets/img/projects/alex-west-3.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Alex%20West%2C%20Alexandria%2C%20Egypt&t=&z=13&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "أليكس ويست من سوديك من أقدم الكومباوندات المتكاملة في الإسكندرية، وبيتميز بمجتمع مستقر وخدمات شغالة ومساحات خضراء ناضجة.",
+    "بيضم مدرسة دولية ونادي وممشى تجاري ومطاعم، وقريب من طريق الصحراوي وسيتي سنتر.",
+    "الوحدات بتشمل شقق وتاون هاوس وتوين هاوس وفيلات، وسوق الريسيل فيه نشط."
+   ],
+   "en": [
+    "Alex West by SODIC is one of Alexandria's earliest integrated compounds, with a settled community, running services and mature landscaping.",
+    "It includes an international school, a club, a retail promenade and dining, and sits close to the desert road and City Centre.",
+    "Apartments, townhouses, twin houses and villas are available, with an active resale market."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "مدرسة دولية داخل المشروع",
+    "en": "International school on site"
+   },
+   {
+    "ar": "مجتمع مستقر وخدمات ناضجة",
+    "en": "Settled community, mature services"
+   },
+   {
+    "ar": "قريب من طريق الصحراوي",
+    "en": "Close to the desert road"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة",
+     "en": "Apartment"
+    },
+    "area": "120 - 200",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "200 - 260",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا",
+     "en": "Villa"
+    },
+    "area": "300 - 420",
+    "beds": 4
+   }
+  ],
+  "amenities": [
+   "greenSpaces",
+   "clubhouse",
+   "school",
+   "retail",
+   "restaurants",
+   "security",
+   "gym",
+   "kidsArea",
+   "tracks"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 7
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "سيتي سنتر الإسكندرية",
+    "en": "City Centre Alexandria"
+   },
+   {
+    "ar": "طريق الصحراوي",
+    "en": "Desert Road"
+   }
+  ],
+  "faq": []
+ },
+ {
+  "slug": "la-vista-bay",
+  "featured": false,
+  "order": 12,
+  "name": {
+   "ar": "لافيستا باي",
+   "en": "La Vista Bay"
+  },
+  "developer": {
+   "ar": "لافيستا للتطوير العقاري",
+   "en": "La Vista Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الكيلو 190، الساحل الشمالي",
+   "en": "Ras El Hekma, KM 190, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 100 فدان",
+   "en": "Approx. 100 acres"
+  },
+  "startingPrice": 8000000,
+  "downPayment": 15,
+  "installmentYears": 6,
+  "delivery": "2026",
+  "status": {
+   "ar": "مستلم جزئيًا",
+   "en": "Partially delivered"
+  },
+  "types": [
+   "chalet",
+   "villa",
+   "twinhouse"
+  ],
+  "unitAreaFrom": 100,
+  "unitAreaTo": 300,
+  "tagline": {
+   "ar": "خليج هادي وتسليم سريع وسمعة تشطيب قوية",
+   "en": "A quiet bay, quick handover and a strong finishing reputation"
+  },
+  "hero": "assets/img/projects/la-vista-bay-1.svg",
+  "gallery": [
+   "assets/img/projects/la-vista-bay-1.svg",
+   "assets/img/projects/la-vista-bay-2.svg",
+   "assets/img/projects/la-vista-bay-3.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20Egypt&t=&z=11&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "لافيستا باي في رأس الحكمة على خليج هادي بمياه صافية، وميزة لافيستا المعروفة إنها بتسلم في مواعيدها وبتشطيب كامل.",
+    "القرية متوسطة الحجم فبتحافظ على طابع هادي وخصوصية عالية، مع بيتش وحمامات سباحة ومطاعم.",
+    "بتناسب اللي عايز يستلم بسرعة ويستخدم الوحدة من أول صيف."
+   ],
+   "en": [
+    "La Vista Bay sits on a calm Ras El Hekma bay with clear water, and La Vista's reputation is built on delivering on time and fully finished.",
+    "The village is mid-sized, which keeps it quiet and private, with a beach, pools and dining.",
+    "It suits buyers who want to take handover quickly and use the unit from the first summer."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "تسليم في المواعيد بتشطيب كامل",
+    "en": "On-time, fully finished delivery"
+   },
+   {
+    "ar": "خليج هادي ومياه صافية",
+    "en": "Calm bay, clear water"
+   },
+   {
+    "ar": "قرية متوسطة الحجم وخصوصية عالية",
+    "en": "Mid-sized and private"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "100 - 130",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "130 - 170",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا",
+     "en": "Villa"
+    },
+    "area": "220 - 300",
+    "beds": 4
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "restaurants",
+   "security",
+   "kidsArea",
+   "retail"
+  ],
+  "payment": [
+   {
+    "dp": 15,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "فوكا رود",
+    "en": "Fouka Road"
+   }
+  ],
+  "faq": []
+ },
+ {
+  "slug": "palm-hills-alexandria",
+  "featured": false,
+  "order": 13,
+  "name": {
+   "ar": "بالم هيلز الإسكندرية",
+   "en": "Palm Hills Alexandria"
+  },
+  "developer": {
+   "ar": "بالم هيلز للتطوير العقاري",
+   "en": "Palm Hills Developments"
+  },
+  "city": "alexandria",
+  "location": {
+   "ar": "الطريق الساحلي الدولي، كينج مريوط، الإسكندرية",
+   "en": "International Coastal Road, King Mariout, Alexandria"
+  },
+  "landArea": {
+   "ar": "حوالي 160 فدان",
+   "en": "Approx. 160 acres"
+  },
+  "startingPrice": 7500000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered phases and phases under construction"
+  },
+  "types": [
+   "apartment",
+   "villa",
+   "townhouse",
+   "twinhouse",
+   "duplex",
+   "penthouse"
+  ],
+  "unitAreaFrom": 120,
+  "unitAreaTo": 420,
+  "tagline": {
+   "ar": "كومباوند متكامل على الطريق الساحلي بمدارس ونادي وخدمات",
+   "en": "A full-service gated community on the coastal road"
+  },
+  "hero": "assets/img/projects/palm-hills-alexandria-1.svg",
+  "gallery": [
+   "assets/img/projects/palm-hills-alexandria-1.svg",
+   "assets/img/projects/palm-hills-alexandria-2.svg",
+   "assets/img/projects/palm-hills-alexandria-3.svg",
+   "assets/img/projects/palm-hills-alexandria-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=International%20Coastal%20Road%2C%20King%20Mariout%2C%20Alexandria%2C%20Egypt&t=&z=14&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "بالم هيلز الإسكندرية من أكبر الكومباوندات المتكاملة في المدينة، على الطريق الساحلي الدولي وعلى بُعد حوالي 9 كيلومتر من الكورنيش. المشروع اتخطط بحيث النسبة الأكبر من الأرض مساحات خضراء وبحيرات ومسارات مشي، والمباني موزعة عليها بكثافة منخفضة.",
+    "الوحدات في بالم هيلز الإسكندرية بتبدأ من حوالي 120 متر وبتوصل لحوالي 420 متر، وبتشمل شقق، فيلات مستقلة، تاون هاوس، توين هاوس، دوبلكسات، بنتهاوس. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Palm Hills Alexandria is one of the city's largest fully-serviced gated communities, sitting on the International Coastal Road about 9 km from the Corniche. The master plan gives most of the land to greenery, water bodies and walking trails, with low-density buildings spread across them.",
+    "Units at Palm Hills Alexandria run from roughly 120 to 420 sqm and cover apartments, standalone villas, townhouses, twin houses, duplexes, penthouses. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "كومباوند متكامل على الطريق الساحلي بمدارس ونادي وخدمات",
+    "en": "A full-service gated community on the coastal road"
+   },
+   {
+    "ar": "مدارس وحضانات داخل المشروع",
+    "en": "Schools and nurseries on site"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   },
+   {
+    "ar": "أمن وإدارة على مدار الساعة",
+    "en": "24/7 security and management"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "120 - 190",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "180 - 265",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "250 - 325",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "355 - 420",
+    "beds": 5
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "275 - 340",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin House"
+    },
+    "area": "310 - 370",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "دوبلكس",
+     "en": "Duplex"
+    },
+    "area": "240 - 330",
+    "beds": 3
+   }
+  ],
+  "amenities": [
+   "greenSpaces",
+   "pools",
+   "school",
+   "clubhouse",
+   "gym",
+   "sports",
+   "retail",
+   "restaurants",
+   "kidsArea",
+   "security",
+   "parking",
+   "tracks"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "مطار برج العرب الدولي - 40 دقيقة",
+    "en": "Borg El Arab International Airport - 40 min"
+   },
+   {
+    "ar": "سيتي سنتر الإسكندرية",
+    "en": "City Centre Alexandria"
+   },
+   {
+    "ar": "الطريق الصحراوي إسكندرية - القاهرة",
+    "en": "Alexandria - Cairo Desert Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "بالم هيلز الإسكندرية فين بالظبط؟",
+     "en": "Where exactly is Palm Hills Alexandria?"
+    },
+    "a": {
+     "ar": "الطريق الساحلي الدولي، كينج مريوط، الإسكندرية، من تطوير بالم هيلز للتطوير العقاري.",
+     "en": "International Coastal Road, King Mariout, Alexandria, developed by Palm Hills Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "antoniadis-alexandria",
+  "featured": false,
+  "order": 14,
+  "name": {
+   "ar": "أنطونيادس سيتي",
+   "en": "Antoniadis City"
+  },
+  "developer": {
+   "ar": "أنطونيادس للتنمية السياحية والتعمير",
+   "en": "Antoniadis for Tourism and Urban Development"
+  },
+  "city": "alexandria",
+  "location": {
+   "ar": "طريق الحرية الزراعي، سموحة، الإسكندرية",
+   "en": "Agricultural Road, Smouha, Alexandria"
+  },
+  "landArea": {
+   "ar": "حوالي 20 فدان",
+   "en": "Approx. 20 acres"
+  },
+  "startingPrice": 9000000,
+  "downPayment": 25,
+  "installmentYears": 4,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered phases and phases under construction"
+  },
+  "types": [
+   "apartment",
+   "duplex",
+   "penthouse",
+   "retail"
+  ],
+  "unitAreaFrom": 177,
+  "unitAreaTo": 330,
+  "tagline": {
+   "ar": "أول كومباوند مغلق في قلب سموحة أمام حدائق أنطونيادس",
+   "en": "A gated address in the heart of Smouha, facing Antoniades Gardens"
+  },
+  "hero": "assets/img/projects/antoniadis-alexandria-1.svg",
+  "gallery": [
+   "assets/img/projects/antoniadis-alexandria-1.svg",
+   "assets/img/projects/antoniadis-alexandria-2.svg",
+   "assets/img/projects/antoniadis-alexandria-3.svg",
+   "assets/img/projects/antoniadis-alexandria-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Agricultural%20Road%2C%20Smouha%2C%20Alexandria%2C%20Egypt&t=&z=14&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "أنطونيادس سيتي من أوائل المجتمعات المغلقة اللي اتبنت جوه سموحة نفسها مش على أطرافها، على الطريق الزراعي وقريب من محور التعمير. الموقع ده معناه إنك جوه المدينة بكل خدماتها، وفي نفس الوقت وراء بوابة وأمن ومساحات خضراء خاصة.",
+    "الوحدات في أنطونيادس سيتي بتبدأ من حوالي 177 متر وبتوصل لحوالي 330 متر، وبتشمل شقق، دوبلكسات، بنتهاوس، محلات تجارية. أنظمة السداد المعلنة بتبدأ من مقدم 25% وتقسيط يوصل لـ4 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Antoniadis City is one of the first gated communities built inside Smouha itself rather than on its edge, on the Agricultural Road near the Tameer Axis. That location means you stay inside the city with all its services, while living behind a gate with private security and landscaping.",
+    "Units at Antoniadis City run from roughly 177 to 330 sqm and cover apartments, duplexes, penthouses, retail units. Published plans start at a 25% down payment with instalments of up to 4 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "أول كومباوند مغلق في قلب سموحة أمام حدائق أنطونيادس",
+    "en": "A gated address in the heart of Smouha, facing Antoniades Gardens"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 25% وتقسيط حتى 4 سنين",
+    "en": "25% down payment, up to 4 years"
+   },
+   {
+    "ar": "أمن وإدارة على مدار الساعة",
+    "en": "24/7 security and management"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "175 - 215",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "210 - 250",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "245 - 280",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "دوبلكس",
+     "en": "Duplex"
+    },
+    "area": "240 - 285",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "بنتهاوس",
+     "en": "Penthouse"
+    },
+    "area": "245 - 290",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "محل تجاري",
+     "en": "Retail Unit"
+    },
+    "area": "175 - 225",
+    "beds": 0
+   }
+  ],
+  "amenities": [
+   "greenSpaces",
+   "waterFeatures",
+   "pools",
+   "gym",
+   "clubhouse",
+   "retail",
+   "kidsArea",
+   "security",
+   "parking",
+   "mosque"
+  ],
+  "payment": [
+   {
+    "dp": 25,
+    "years": 4
+   },
+   {
+    "dp": 35,
+    "years": 3
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "نادي سموحة - 5 دقائق",
+    "en": "Smouha Sporting Club - 5 min"
+   },
+   {
+    "ar": "حدائق أنطونيادس",
+    "en": "Antoniades Gardens"
+   },
+   {
+    "ar": "محطة سيدي جابر",
+    "en": "Sidi Gaber Station"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "أنطونيادس سيتي فين بالظبط؟",
+     "en": "Where exactly is Antoniadis City?"
+    },
+    "a": {
+     "ar": "طريق الحرية الزراعي، سموحة، الإسكندرية، من تطوير أنطونيادس للتنمية السياحية والتعمير.",
+     "en": "Agricultural Road, Smouha, Alexandria, developed by Antoniadis for Tourism and Urban Development."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 25% وتقسيط لحد 4 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 25% down with instalments up to 4 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "terrace-smouha",
+  "featured": false,
+  "order": 15,
+  "name": {
+   "ar": "تراس سموحة",
+   "en": "Terrace Smouha"
+  },
+  "developer": {
+   "ar": "سوليك للاستثمار العقاري",
+   "en": "Solik Real Estate Investment"
+  },
+  "city": "alexandria",
+  "location": {
+   "ar": "سموحة، الإسكندرية",
+   "en": "Smouha, Alexandria"
+  },
+  "landArea": {
+   "ar": "مشروع سكني داخل المدينة",
+   "en": "In-city residential project"
+  },
+  "startingPrice": 6500000,
+  "downPayment": 15,
+  "installmentYears": 5,
+  "delivery": "2027",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "apartment",
+   "duplex",
+   "penthouse"
+  ],
+  "unitAreaFrom": 110,
+  "unitAreaTo": 300,
+  "tagline": {
+   "ar": "على بُعد خطوات من نادي سموحة",
+   "en": "Walking distance from Smouha Sporting Club"
+  },
+  "hero": "assets/img/projects/terrace-smouha-1.svg",
+  "gallery": [
+   "assets/img/projects/terrace-smouha-1.svg",
+   "assets/img/projects/terrace-smouha-2.svg",
+   "assets/img/projects/terrace-smouha-3.svg",
+   "assets/img/projects/terrace-smouha-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Smouha%2C%20Alexandria%2C%20Egypt&t=&z=14&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "تراس سموحة مشروع سكني مضغوط في واحدة من أغلى نقاط المدينة — على بُعد مشي من نادي سموحة. المشروع بيركّز على التشطيب وجودة الخدمة أكتر من المساحة: جراجات، أسانسيرات سريعة، إدارة مبنى، وكاميرات وأمن 24 ساعة.",
+    "الوحدات في تراس سموحة بتبدأ من حوالي 110 متر وبتوصل لحوالي 300 متر، وبتشمل شقق، دوبلكسات، بنتهاوس. أنظمة السداد المعلنة بتبدأ من مقدم 15% وتقسيط يوصل لـ5 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Terrace Smouha is a compact residential project in one of the city's most sought-after pockets — walking distance from Smouha Sporting Club. It competes on finishing and building services rather than sheer size: garages, high-speed lifts, professional building management, cameras and round-the-clock security.",
+    "Units at Terrace Smouha run from roughly 110 to 300 sqm and cover apartments, duplexes, penthouses. Published plans start at a 15% down payment with instalments of up to 5 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "على بُعد خطوات من نادي سموحة",
+    "en": "Walking distance from Smouha Sporting Club"
+   },
+   {
+    "ar": "مقدم 15% وتقسيط حتى 5 سنين",
+    "en": "15% down payment, up to 5 years"
+   },
+   {
+    "ar": "أمن وإدارة على مدار الساعة",
+    "en": "24/7 security and management"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "110 - 155",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "150 - 200",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "195 - 240",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "دوبلكس",
+     "en": "Duplex"
+    },
+    "area": "185 - 245",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "بنتهاوس",
+     "en": "Penthouse"
+    },
+    "area": "195 - 250",
+    "beds": 3
+   }
+  ],
+  "amenities": [
+   "parking",
+   "security",
+   "gym",
+   "greenSpaces",
+   "retail"
+  ],
+  "payment": [
+   {
+    "dp": 15,
+    "years": 5
+   },
+   {
+    "dp": 25,
+    "years": 3
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "نادي سموحة",
+    "en": "Smouha Sporting Club"
+   },
+   {
+    "ar": "جرين بلازا",
+    "en": "Green Plaza"
+   },
+   {
+    "ar": "محطة سيدي جابر",
+    "en": "Sidi Gaber Station"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "تراس سموحة فين بالظبط؟",
+     "en": "Where exactly is Terrace Smouha?"
+    },
+    "a": {
+     "ar": "سموحة، الإسكندرية، من تطوير سوليك للاستثمار العقاري.",
+     "en": "Smouha, Alexandria, developed by Solik Real Estate Investment."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 15% وتقسيط لحد 5 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 15% down with instalments up to 5 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "cleopatra-plaza",
+  "featured": false,
+  "order": 16,
+  "name": {
+   "ar": "كليوباترا بلازا",
+   "en": "Cleopatra Plaza"
+  },
+  "developer": {
+   "ar": "كليوباترا للفنادق والتنمية العقارية",
+   "en": "Cleopatra Hotels and Developments"
+  },
+  "city": "alexandria",
+  "location": {
+   "ar": "الإسكندرية",
+   "en": "Alexandria"
+  },
+  "landArea": {
+   "ar": "مشروع سكني داخل المدينة",
+   "en": "In-city residential project"
+  },
+  "startingPrice": 5800000,
+  "downPayment": 15,
+  "installmentYears": 5,
+  "delivery": "2027",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "apartment",
+   "duplex"
+  ],
+  "unitAreaFrom": 105,
+  "unitAreaTo": 260,
+  "tagline": {
+   "ar": "سكن قريب من جامعة الإسكندرية بأسعار دخول معقولة",
+   "en": "Close to Alexandria University, with an accessible entry price"
+  },
+  "hero": "assets/img/projects/cleopatra-plaza-1.svg",
+  "gallery": [
+   "assets/img/projects/cleopatra-plaza-1.svg",
+   "assets/img/projects/cleopatra-plaza-2.svg",
+   "assets/img/projects/cleopatra-plaza-3.svg",
+   "assets/img/projects/cleopatra-plaza-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Alexandria%2C%20Egypt&t=&z=14&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "كليوباترا بلازا مشروع من كليوباترا للفنادق والتنمية العقارية، على بُعد دقيقتين من جامعة الإسكندرية وحوالي 35 دقيقة من مطار برج العرب. الوحدات شقق ودوبلكسات بمساحات متوسطة، فبيناسب المشترين اللي عايزين موقع مركزي من غير سعر سموحة.",
+    "الوحدات في كليوباترا بلازا بتبدأ من حوالي 105 متر وبتوصل لحوالي 260 متر، وبتشمل شقق، دوبلكسات. أنظمة السداد المعلنة بتبدأ من مقدم 15% وتقسيط يوصل لـ5 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Cleopatra Plaza is a project by Cleopatra Hotels and Developments, two minutes from Alexandria University and roughly 35 minutes from Borg El Arab Airport. Units are mid-sized apartments and duplexes, which suits buyers who want a central address without a Smouha price tag.",
+    "Units at Cleopatra Plaza run from roughly 105 to 260 sqm and cover apartments, duplexes. Published plans start at a 15% down payment with instalments of up to 5 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "سكن قريب من جامعة الإسكندرية بأسعار دخول معقولة",
+    "en": "Close to Alexandria University, with an accessible entry price"
+   },
+   {
+    "ar": "مقدم 15% وتقسيط حتى 5 سنين",
+    "en": "15% down payment, up to 5 years"
+   },
+   {
+    "ar": "أمن وإدارة على مدار الساعة",
+    "en": "24/7 security and management"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "105 - 140",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "135 - 180",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "175 - 210",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "دوبلكس",
+     "en": "Duplex"
+    },
+    "area": "165 - 215",
+    "beds": 3
+   }
+  ],
+  "amenities": [
+   "parking",
+   "security",
+   "greenSpaces",
+   "retail",
+   "gym"
+  ],
+  "payment": [
+   {
+    "dp": 15,
+    "years": 5
+   },
+   {
+    "dp": 25,
+    "years": 3
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "جامعة الإسكندرية - دقيقتين",
+    "en": "Alexandria University - 2 min"
+   },
+   {
+    "ar": "مطار برج العرب - 35 دقيقة",
+    "en": "Borg El Arab Airport - 35 min"
+   },
+   {
+    "ar": "كورنيش الإسكندرية",
+    "en": "Alexandria Corniche"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "كليوباترا بلازا فين بالظبط؟",
+     "en": "Where exactly is Cleopatra Plaza?"
+    },
+    "a": {
+     "ar": "الإسكندرية، من تطوير كليوباترا للفنادق والتنمية العقارية.",
+     "en": "Alexandria, developed by Cleopatra Hotels and Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 15% وتقسيط لحد 5 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 15% down with instalments up to 5 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "silversands",
+  "featured": false,
+  "order": 17,
+  "name": {
+   "ar": "سيلفر ساندز",
+   "en": "Silversands"
+  },
+  "developer": {
+   "ar": "أورا للتطوير العقاري",
+   "en": "Ora Developers"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "سيدي حنيش، الكيلو 247، الساحل الشمالي",
+   "en": "Sidi Heneish, KM 247, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 506 فدان",
+   "en": "Approx. 506 acres"
+  },
+  "startingPrice": 22000000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered phases and phases under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "twinhouse",
+   "townhouse",
+   "duplex"
+  ],
+  "unitAreaFrom": 90,
+  "unitAreaTo": 520,
+  "tagline": {
+   "ar": "مياه فيروزية وشاطئ من أهدأ شواطئ الساحل",
+   "en": "Turquoise water and one of the calmest bays on the coast"
+  },
+  "hero": "assets/img/projects/silversands-1.svg",
+  "gallery": [
+   "assets/img/projects/silversands-1.svg",
+   "assets/img/projects/silversands-2.svg",
+   "assets/img/projects/silversands-3.svg",
+   "assets/img/projects/silversands-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Sidi%20Heneish%2C%20KM%20247%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "سيلفر ساندز من أورا على الكيلو 247 في سيدي حنيش، وهو من المشاريع اللي بنت سمعتها على جودة الشاطئ نفسه — رمل أبيض ومياه ضحلة هادية. التصميم منخفض الكثافة والمنسوب بيتدرّج ناحية البحر عشان أكبر عدد من الوحدات يشوف المياه.",
+    "الوحدات في سيلفر ساندز بتبدأ من حوالي 90 متر وبتوصل لحوالي 520 متر، وبتشمل شاليهات، شقق، فيلات مستقلة، توين هاوس، تاون هاوس، دوبلكسات. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Ora's Silversands sits at KM 247 in Sidi Heneish, and its reputation rests on the beach itself — white sand and shallow, calm water. The plan is deliberately low-density and stepped down towards the sea so that as many units as possible keep a water view.",
+    "Units at Silversands run from roughly 90 to 520 sqm and cover chalets, apartments, standalone villas, twin houses, townhouses, duplexes. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "مياه فيروزية وشاطئ من أهدأ شواطئ الساحل",
+    "en": "Turquoise water and one of the calmest bays on the coast"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "90 - 160",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "150 - 235",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "220 - 315",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "90 - 195",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "175 - 295",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "280 - 380",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "425 - 520",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "lagoon",
+   "pools",
+   "clubhouse",
+   "restaurants",
+   "retail",
+   "medical",
+   "sports",
+   "kidsArea",
+   "security",
+   "gym",
+   "greenSpaces"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "مطار مرسى مطروح",
+    "en": "Marsa Matrouh Airport"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   },
+   {
+    "ar": "العلمين الجديدة",
+    "en": "New Alamein"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "سيلفر ساندز فين بالظبط؟",
+     "en": "Where exactly is Silversands?"
+    },
+    "a": {
+     "ar": "سيدي حنيش، الكيلو 247، الساحل الشمالي، من تطوير أورا للتطوير العقاري.",
+     "en": "Sidi Heneish, KM 247, North Coast, developed by Ora Developers."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "solare-ras-el-hekma",
+  "featured": false,
+  "order": 18,
+  "name": {
+   "ar": "سولاري رأس الحكمة",
+   "en": "Solare Ras El Hekma"
+  },
+  "developer": {
+   "ar": "مصر إيطاليا العقارية",
+   "en": "Misr Italia Properties"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الكيلو 199، الساحل الشمالي",
+   "en": "Ras El Hekma, KM 199, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 386 فدان",
+   "en": "Approx. 386 acres"
+  },
+  "startingPrice": 13500000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2028",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "twinhouse",
+   "townhouse"
+  ],
+  "unitAreaFrom": 75,
+  "unitAreaTo": 450,
+  "tagline": {
+   "ar": "18 حمام سباحة وفنادق بوتيك على رأس الحكمة",
+   "en": "Eighteen pools and boutique hotels on Ras El Hekma"
+  },
+  "hero": "assets/img/projects/solare-ras-el-hekma-1.svg",
+  "gallery": [
+   "assets/img/projects/solare-ras-el-hekma-1.svg",
+   "assets/img/projects/solare-ras-el-hekma-2.svg",
+   "assets/img/projects/solare-ras-el-hekma-3.svg",
+   "assets/img/projects/solare-ras-el-hekma-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20KM%20199%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "سولاري من مصر إيطاليا على الكيلو 199 في رأس الحكمة، بمساحة حوالي 386 فدان. المشروع بيقدّم تدرّج واسع من الكابينة الصغيرة للفيلا المستقلة، ومعاه منطقة رياضية مخصصة وفنادق بوتيك و18 حمام سباحة موزعين على المراحل.",
+    "الوحدات في سولاري رأس الحكمة بتبدأ من حوالي 75 متر وبتوصل لحوالي 450 متر، وبتشمل شاليهات، شقق، فيلات مستقلة، توين هاوس، تاون هاوس. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2028.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Misr Italia's Solare occupies roughly 386 acres at KM 199 in Ras El Hekma. The unit ladder is unusually wide — from compact cabins up to standalone villas — and the resort includes a dedicated sports zone, boutique hotels and eighteen pools spread across its phases.",
+    "Units at Solare Ras El Hekma run from roughly 75 to 450 sqm and cover chalets, apartments, standalone villas, twin houses, townhouses. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2028.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "18 حمام سباحة وفنادق بوتيك على رأس الحكمة",
+    "en": "Eighteen pools and boutique hotels on Ras El Hekma"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "75 - 135",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "130 - 200",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "190 - 270",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "75 - 165",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "150 - 255",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "240 - 330",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "370 - 450",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "clubhouse",
+   "restaurants",
+   "retail",
+   "sports",
+   "kidsArea",
+   "security",
+   "gym",
+   "medical",
+   "greenSpaces"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "سيدي عبد الرحمن",
+    "en": "Sidi Abdel Rahman"
+   },
+   {
+    "ar": "العلمين الجديدة",
+    "en": "New Alamein"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "سولاري رأس الحكمة فين بالظبط؟",
+     "en": "Where exactly is Solare Ras El Hekma?"
+    },
+    "a": {
+     "ar": "رأس الحكمة، الكيلو 199، الساحل الشمالي، من تطوير مصر إيطاليا العقارية.",
+     "en": "Ras El Hekma, KM 199, North Coast, developed by Misr Italia Properties."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "june-ras-el-hekma",
+  "featured": false,
+  "order": 19,
+  "name": {
+   "ar": "چون رأس الحكمة",
+   "en": "June Ras El Hekma"
+  },
+  "developer": {
+   "ar": "سوديك",
+   "en": "SODIC"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الكيلو 193، الساحل الشمالي",
+   "en": "Ras El Hekma, KM 193, North Coast"
+  },
+  "landArea": {
+   "ar": "مشروع ساحلي متكامل",
+   "en": "Integrated coastal resort"
+  },
+  "startingPrice": 14000000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered phases and phases under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "twinhouse",
+   "townhouse"
+  ],
+  "unitAreaFrom": 95,
+  "unitAreaTo": 400,
+  "tagline": {
+   "ar": "كلوب S ومركز عافية ومنطقة تجارية على مستوى عالي",
+   "en": "Club S, a wellness centre and a serious retail hub"
+  },
+  "hero": "assets/img/projects/june-ras-el-hekma-1.svg",
+  "gallery": [
+   "assets/img/projects/june-ras-el-hekma-1.svg",
+   "assets/img/projects/june-ras-el-hekma-2.svg",
+   "assets/img/projects/june-ras-el-hekma-3.svg",
+   "assets/img/projects/june-ras-el-hekma-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20KM%20193%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "چون من سوديك على الكيلو 193 في رأس الحكمة. أكتر حاجة مميزة في المشروع إن الخدمات مش مؤجلة لمرحلة أخيرة: كلوب هاوس (Club S) ومركز عافية ومنطقة تجارية ومسارات مشي بتشتغل مع الاستلام.",
+    "الوحدات في چون رأس الحكمة بتبدأ من حوالي 95 متر وبتوصل لحوالي 400 متر، وبتشمل شاليهات، شقق، فيلات مستقلة، توين هاوس، تاون هاوس. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "SODIC's June sits at KM 193 in Ras El Hekma. Its strongest point is that the amenities are not deferred to a final phase: Club S, a wellness centre, a retail hub and pedestrian trails come online alongside delivery.",
+    "Units at June Ras El Hekma run from roughly 95 to 400 sqm and cover chalets, apartments, standalone villas, twin houses, townhouses. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "كلوب S ومركز عافية ومنطقة تجارية على مستوى عالي",
+    "en": "Club S, a wellness centre and a serious retail hub"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "95 - 145",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "140 - 200",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "185 - 255",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "95 - 170",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "155 - 240",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "230 - 300",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "335 - 400",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "clubhouse",
+   "restaurants",
+   "retail",
+   "gym",
+   "tracks",
+   "kidsArea",
+   "security",
+   "greenSpaces",
+   "medical"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "العلمين الجديدة",
+    "en": "New Alamein"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "چون رأس الحكمة فين بالظبط؟",
+     "en": "Where exactly is June Ras El Hekma?"
+    },
+    "a": {
+     "ar": "رأس الحكمة، الكيلو 193، الساحل الشمالي، من تطوير سوديك.",
+     "en": "Ras El Hekma, KM 193, North Coast, developed by SODIC."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "salt-ras-el-hekma",
+  "featured": false,
+  "order": 20,
+  "name": {
+   "ar": "سولت رأس الحكمة",
+   "en": "Salt Ras El Hekma"
+  },
+  "developer": {
+   "ar": "تطوير مصر",
+   "en": "Tatweer Misr"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الكيلو 185، الساحل الشمالي",
+   "en": "Ras El Hekma, KM 185, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 294 فدان",
+   "en": "Approx. 294 acres"
+  },
+  "startingPrice": 12500000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered phases and phases under construction"
+  },
+  "types": [
+   "chalet",
+   "villa",
+   "twinhouse",
+   "townhouse",
+   "apartment"
+  ],
+  "unitAreaFrom": 85,
+  "unitAreaTo": 430,
+  "tagline": {
+   "ar": "مارينا وبحيرات ونادي شاطئ نشط طول الموسم",
+   "en": "A marina, lagoons and a clubhouse that stays busy all season"
+  },
+  "hero": "assets/img/projects/salt-ras-el-hekma-1.svg",
+  "gallery": [
+   "assets/img/projects/salt-ras-el-hekma-1.svg",
+   "assets/img/projects/salt-ras-el-hekma-2.svg",
+   "assets/img/projects/salt-ras-el-hekma-3.svg",
+   "assets/img/projects/salt-ras-el-hekma-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20KM%20185%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "سولت من تطوير مصر على الكيلو 185 في رأس الحكمة بمساحة حوالي 294 فدان. المشروع فيه مارينا وبحيرات صناعية ومنطقة مطاعم وكافيهات، وبيتميّز بإن الحياة فيه شغالة من أول الموسم لآخره مش أسبوعين في أغسطس بس.",
+    "الوحدات في سولت رأس الحكمة بتبدأ من حوالي 85 متر وبتوصل لحوالي 430 متر، وبتشمل شاليهات، فيلات مستقلة، توين هاوس، تاون هاوس، شقق. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Tatweer Misr's Salt covers roughly 294 acres at KM 185 in Ras El Hekma. It has a marina, swimmable lagoons and a dining strip, and its calendar keeps the resort alive across the full season rather than for two weeks in August.",
+    "Units at Salt Ras El Hekma run from roughly 85 to 430 sqm and cover chalets, standalone villas, twin houses, townhouses, apartments. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "مارينا وبحيرات ونادي شاطئ نشط طول الموسم",
+    "en": "A marina, lagoons and a clubhouse that stays busy all season"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "مارينا لليخوت",
+    "en": "Yacht marina"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "85 - 140",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "135 - 200",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "190 - 265",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "355 - 430",
+    "beds": 5
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin House"
+    },
+    "area": "305 - 375",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "265 - 340",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "85 - 170",
+    "beds": 2
+   }
+  ],
+  "amenities": [
+   "beach",
+   "marina",
+   "lagoon",
+   "pools",
+   "clubhouse",
+   "restaurants",
+   "retail",
+   "kidsArea",
+   "security",
+   "gym",
+   "sports"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "الضبعة",
+    "en": "Al Dabaa"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "سولت رأس الحكمة فين بالظبط؟",
+     "en": "Where exactly is Salt Ras El Hekma?"
+    },
+    "a": {
+     "ar": "رأس الحكمة، الكيلو 185، الساحل الشمالي، من تطوير تطوير مصر.",
+     "en": "Ras El Hekma, KM 185, North Coast, developed by Tatweer Misr."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "gaia-ras-el-hekma",
+  "featured": false,
+  "order": 21,
+  "name": {
+   "ar": "جايا رأس الحكمة",
+   "en": "Gaia Ras El Hekma"
+  },
+  "developer": {
+   "ar": "الأهلي صبور للتنمية العقارية",
+   "en": "Al Ahly Sabbour Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الكيلو 193، الساحل الشمالي",
+   "en": "Ras El Hekma, KM 193, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 280 فدان",
+   "en": "Approx. 280 acres"
+  },
+  "startingPrice": 12000000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered phases and phases under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "townhouse",
+   "duplex",
+   "penthouse"
+  ],
+  "unitAreaFrom": 80,
+  "unitAreaTo": 400,
+  "tagline": {
+   "ar": "مطعم MAI TAI على الشاطئ ومسطحات مائية واسعة",
+   "en": "The MAI TAI beachside restaurant and generous water features"
+  },
+  "hero": "assets/img/projects/gaia-ras-el-hekma-1.svg",
+  "gallery": [
+   "assets/img/projects/gaia-ras-el-hekma-1.svg",
+   "assets/img/projects/gaia-ras-el-hekma-2.svg",
+   "assets/img/projects/gaia-ras-el-hekma-3.svg",
+   "assets/img/projects/gaia-ras-el-hekma-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20KM%20193%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "جايا من الأهلي صبور على الكيلو 193 بمساحة حوالي 280 فدان. المشروع معروف بمطعم MAI TAI على الشاطئ وبتوزيع الوحدات حوالين مسطحات مائية واسعة، وبيقدّم تشكيلة كبيرة من الشاليه والكابانا لحد الفيلا المستقلة.",
+    "الوحدات في جايا رأس الحكمة بتبدأ من حوالي 80 متر وبتوصل لحوالي 400 متر، وبتشمل شاليهات، شقق، فيلات مستقلة، تاون هاوس، دوبلكسات، بنتهاوس. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Al Ahly Sabbour's Gaia spans about 280 acres at KM 193. It is known for the MAI TAI beachside restaurant and for arranging its units around broad water features, with a range that runs from chalets and cabanas up to standalone villas.",
+    "Units at Gaia Ras El Hekma run from roughly 80 to 400 sqm and cover chalets, apartments, standalone villas, townhouses, duplexes, penthouses. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "مطعم MAI TAI على الشاطئ ومسطحات مائية واسعة",
+    "en": "The MAI TAI beachside restaurant and generous water features"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "80 - 130",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "125 - 190",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "175 - 245",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "80 - 155",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "145 - 235",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "220 - 300",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "330 - 400",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "waterFeatures",
+   "pools",
+   "restaurants",
+   "retail",
+   "gym",
+   "kidsArea",
+   "security",
+   "clubhouse",
+   "greenSpaces",
+   "medical"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "سيدي عبد الرحمن",
+    "en": "Sidi Abdel Rahman"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "جايا رأس الحكمة فين بالظبط؟",
+     "en": "Where exactly is Gaia Ras El Hekma?"
+    },
+    "a": {
+     "ar": "رأس الحكمة، الكيلو 193، الساحل الشمالي، من تطوير الأهلي صبور للتنمية العقارية.",
+     "en": "Ras El Hekma, KM 193, North Coast, developed by Al Ahly Sabbour Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "koun-ras-el-hekma",
+  "featured": false,
+  "order": 22,
+  "name": {
+   "ar": "كون رأس الحكمة",
+   "en": "Koun Ras El Hekma"
+  },
+  "developer": {
+   "ar": "مباني إدريس",
+   "en": "Mabany Edris"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الكيلو 202، الساحل الشمالي",
+   "en": "Ras El Hekma, KM 202, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 106 فدان",
+   "en": "Approx. 106 acres"
+  },
+  "startingPrice": 11000000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2028",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "twinhouse",
+   "townhouse",
+   "penthouse"
+  ],
+  "unitAreaFrom": 80,
+  "unitAreaTo": 380,
+  "tagline": {
+   "ar": "مشروع صغير الحجم يعني زحمة أقل وخدمة أقرب",
+   "en": "A smaller footprint, which means less crowding and closer service"
+  },
+  "hero": "assets/img/projects/koun-ras-el-hekma-1.svg",
+  "gallery": [
+   "assets/img/projects/koun-ras-el-hekma-1.svg",
+   "assets/img/projects/koun-ras-el-hekma-2.svg",
+   "assets/img/projects/koun-ras-el-hekma-3.svg",
+   "assets/img/projects/koun-ras-el-hekma-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20KM%20202%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "كون من مباني إدريس على الكيلو 202 بمساحة حوالي 106 فدان. المساحة الأصغر دي ميزة مش عيب: المسافة من أي وحدة للشاطئ قصيرة، والخدمات (سوبر ماركت، عيادات، مسجد، عربات جولف) كلها على بُعد دقايق.",
+    "الوحدات في كون رأس الحكمة بتبدأ من حوالي 80 متر وبتوصل لحوالي 380 متر، وبتشمل شاليهات، شقق، فيلات مستقلة، توين هاوس، تاون هاوس، بنتهاوس. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2028.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Mabany Edris built Koun on roughly 106 acres at KM 202. The smaller footprint is a feature rather than a limitation: no unit is far from the beach, and the supermarket, clinics, mosque and golf-cart service are all a few minutes away.",
+    "Units at Koun Ras El Hekma run from roughly 80 to 380 sqm and cover chalets, apartments, standalone villas, twin houses, townhouses, penthouses. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2028.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "مشروع صغير الحجم يعني زحمة أقل وخدمة أقرب",
+    "en": "A smaller footprint, which means less crowding and closer service"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "80 - 130",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "120 - 180",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "170 - 235",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "80 - 150",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "140 - 225",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "210 - 285",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "315 - 380",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "retail",
+   "medical",
+   "mosque",
+   "kidsArea",
+   "security",
+   "restaurants",
+   "greenSpaces",
+   "clubhouse"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "سيدي حنيش",
+    "en": "Sidi Heneish"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "كون رأس الحكمة فين بالظبط؟",
+     "en": "Where exactly is Koun Ras El Hekma?"
+    },
+    "a": {
+     "ar": "رأس الحكمة، الكيلو 202، الساحل الشمالي، من تطوير مباني إدريس.",
+     "en": "Ras El Hekma, KM 202, North Coast, developed by Mabany Edris."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "seazen-north-coast",
+  "featured": false,
+  "order": 23,
+  "name": {
+   "ar": "سي زن الساحل الشمالي",
+   "en": "Seazen North Coast"
+  },
+  "developer": {
+   "ar": "القمزي للتطوير العقاري",
+   "en": "Al Qamzi Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "الكيلو 170، الساحل الشمالي",
+   "en": "KM 170, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 204 فدان",
+   "en": "Approx. 204 acres"
+  },
+  "startingPrice": 9500000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "chalet",
+   "villa",
+   "twinhouse",
+   "townhouse"
+  ],
+  "unitAreaFrom": 90,
+  "unitAreaTo": 380,
+  "tagline": {
+   "ar": "نادي داخلي وسينما ومساحات ترفيه مغطاة",
+   "en": "An indoor club, a theatre and covered leisure space"
+  },
+  "hero": "assets/img/projects/seazen-north-coast-1.svg",
+  "gallery": [
+   "assets/img/projects/seazen-north-coast-1.svg",
+   "assets/img/projects/seazen-north-coast-2.svg",
+   "assets/img/projects/seazen-north-coast-3.svg",
+   "assets/img/projects/seazen-north-coast-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=KM%20170%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "سي زن من القمزي على الكيلو 170 بمساحة حوالي 204 فدان. اللي بيميّزه إن جزء كبير من الترفيه مغطى — سينما داخلية وغرف ألعاب ونادي — فالمشروع بيفضل مفيد حتى في الشهور اللي مش موسم بحر.",
+    "الوحدات في سي زن الساحل الشمالي بتبدأ من حوالي 90 متر وبتوصل لحوالي 380 متر، وبتشمل شاليهات، فيلات مستقلة، توين هاوس، تاون هاوس. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Al Qamzi's Seazen covers about 204 acres at KM 170. Its distinguishing choice is that much of the leisure programme is indoors — a theatre, game rooms and a clubhouse — so the resort stays usable outside peak beach months.",
+    "Units at Seazen North Coast run from roughly 90 to 380 sqm and cover chalets, standalone villas, twin houses, townhouses. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "نادي داخلي وسينما ومساحات ترفيه مغطاة",
+    "en": "An indoor club, a theatre and covered leisure space"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "90 - 135",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "130 - 190",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "175 - 240",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "315 - 380",
+    "beds": 5
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin House"
+    },
+    "area": "275 - 335",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "240 - 305",
+    "beds": 3
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "clubhouse",
+   "restaurants",
+   "gym",
+   "kidsArea",
+   "security",
+   "retail",
+   "greenSpaces"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "الضبعة",
+    "en": "Al Dabaa"
+   },
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "سي زن الساحل الشمالي فين بالظبط؟",
+     "en": "Where exactly is Seazen North Coast?"
+    },
+    "a": {
+     "ar": "الكيلو 170، الساحل الشمالي، من تطوير القمزي للتطوير العقاري.",
+     "en": "KM 170, North Coast, developed by Al Qamzi Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "southmed",
+  "featured": false,
+  "order": 24,
+  "name": {
+   "ar": "ساوث ميد",
+   "en": "SouthMed"
+  },
+  "developer": {
+   "ar": "مجموعة طلعت مصطفى",
+   "en": "Talaat Moustafa Group"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "الكيلو 167، الساحل الشمالي",
+   "en": "KM 167, North Coast"
+  },
+  "landArea": {
+   "ar": "حوالي 23 مليون متر مربع",
+   "en": "Approx. 23 million sqm"
+  },
+  "startingPrice": 15000000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2029",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "apartment",
+   "chalet",
+   "villa",
+   "twinhouse",
+   "townhouse"
+  ],
+  "unitAreaFrom": 100,
+  "unitAreaTo": 500,
+  "tagline": {
+   "ar": "مدينة ساحلية كاملة بمارينا وملاعب جولف وفنادق عالمية",
+   "en": "A coastal city with a marina, golf courses and international hotels"
+  },
+  "hero": "assets/img/projects/southmed-1.svg",
+  "gallery": [
+   "assets/img/projects/southmed-1.svg",
+   "assets/img/projects/southmed-2.svg",
+   "assets/img/projects/southmed-3.svg",
+   "assets/img/projects/southmed-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=KM%20167%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "ساوث ميد من مجموعة طلعت مصطفى على الكيلو 167، وبمساحة تقارب 23 مليون متر مربع هو أقرب لمدينة ساحلية منه لقرية. المخطط بيضم مارينا خاصة وملاعب جولف 18 حفرة ونادي رياضي ومنطقة تجارية وفنادق عالمية.",
+    "الوحدات في ساوث ميد بتبدأ من حوالي 100 متر وبتوصل لحوالي 500 متر، وبتشمل شقق، شاليهات، فيلات مستقلة، توين هاوس، تاون هاوس. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2029.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Talaat Moustafa Group's SouthMed sits at KM 167 and, at close to 23 million sqm, reads more like a coastal city than a resort. The plan includes a private marina, 18-hole golf, a sports club, a retail hub and international hotels.",
+    "Units at SouthMed run from roughly 100 to 500 sqm and cover apartments, chalets, standalone villas, twin houses, townhouses. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2029.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "مدينة ساحلية كاملة بمارينا وملاعب جولف وفنادق عالمية",
+    "en": "A coastal city with a marina, golf courses and international hotels"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "مدارس وحضانات داخل المشروع",
+    "en": "Schools and nurseries on site"
+   },
+   {
+    "ar": "مارينا لليخوت",
+    "en": "Yacht marina"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "100 - 195",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "180 - 290",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "275 - 370",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "100 - 165",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "155 - 235",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "220 - 310",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "410 - 500",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "marina",
+   "golf",
+   "pools",
+   "sports",
+   "retail",
+   "restaurants",
+   "medical",
+   "school",
+   "security",
+   "clubhouse",
+   "greenSpaces"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "الضبعة",
+    "en": "Al Dabaa"
+   },
+   {
+    "ar": "العلمين الجديدة",
+    "en": "New Alamein"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "ساوث ميد فين بالظبط؟",
+     "en": "Where exactly is SouthMed?"
+    },
+    "a": {
+     "ar": "الكيلو 167، الساحل الشمالي، من تطوير مجموعة طلعت مصطفى.",
+     "en": "KM 167, North Coast, developed by Talaat Moustafa Group."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "amwaj-north-coast",
+  "featured": false,
+  "order": 25,
+  "name": {
+   "ar": "أمواج الساحل الشمالي",
+   "en": "Amwaj North Coast"
+  },
+  "developer": {
+   "ar": "الأهلي صبور للتنمية العقارية",
+   "en": "Al Ahly Sabbour Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "سيدي عبد الرحمن، الساحل الشمالي",
+   "en": "Sidi Abdel Rahman, North Coast"
+  },
+  "landArea": {
+   "ar": "قرية ساحلية مستلمة",
+   "en": "Delivered coastal village"
+  },
+  "startingPrice": 8500000,
+  "downPayment": 15,
+  "installmentYears": 5,
+  "delivery": {
+   "ar": "مستلم",
+   "en": "Ready"
+  },
+  "status": {
+   "ar": "مستلم بالكامل",
+   "en": "Fully delivered"
+  },
+  "types": [
+   "chalet",
+   "villa",
+   "twinhouse",
+   "townhouse",
+   "apartment"
+  ],
+  "unitAreaFrom": 80,
+  "unitAreaTo": 350,
+  "tagline": {
+   "ar": "قرية مستلمة بالكامل — تشتري وتصيّف نفس الصيف",
+   "en": "Fully delivered — buy now and use it the same summer"
+  },
+  "hero": "assets/img/projects/amwaj-north-coast-1.svg",
+  "gallery": [
+   "assets/img/projects/amwaj-north-coast-1.svg",
+   "assets/img/projects/amwaj-north-coast-2.svg",
+   "assets/img/projects/amwaj-north-coast-3.svg",
+   "assets/img/projects/amwaj-north-coast-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Sidi%20Abdel%20Rahman%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "أمواج من الأهلي صبور في سيدي عبد الرحمن، وهي واحدة من القرى القليلة المستلمة بالكامل والشغالة بمجتمع ثابت. ميزتها الأساسية إنك مش بتشتري وعد باستلام بعد كام سنة — بتشتري وحدة جاهزة وسط خدمات شغالة فعليًا.",
+    "الوحدات في أمواج الساحل الشمالي بتبدأ من حوالي 80 متر وبتوصل لحوالي 350 متر، وبتشمل شاليهات، فيلات مستقلة، توين هاوس، تاون هاوس، شقق. أنظمة السداد المعلنة بتبدأ من مقدم 15% وتقسيط يوصل لـ5 سنين، والوحدات مستلمة.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Al Ahly Sabbour's Amwaj in Sidi Abdel Rahman is one of the few fully delivered villages with a settled community. Its main advantage is that you are not buying a delivery promise a few years out — you are buying a finished unit inside services that already run.",
+    "Units at Amwaj North Coast run from roughly 80 to 350 sqm and cover chalets, standalone villas, twin houses, townhouses, apartments. Published plans start at a 15% down payment with instalments of up to 5 years, and units are already delivered.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "قرية مستلمة بالكامل — تشتري وتصيّف نفس الصيف",
+    "en": "Fully delivered — buy now and use it the same summer"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 15% وتقسيط حتى 5 سنين",
+    "en": "15% down payment, up to 5 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "80 - 125",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "120 - 170",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "160 - 220",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "290 - 350",
+    "beds": 5
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin House"
+    },
+    "area": "255 - 305",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "220 - 280",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "80 - 145",
+    "beds": 2
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "restaurants",
+   "retail",
+   "clubhouse",
+   "kidsArea",
+   "security",
+   "gym",
+   "medical"
+  ],
+  "payment": [
+   {
+    "dp": 15,
+    "years": 5
+   },
+   {
+    "dp": 25,
+    "years": 3
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "مراسي",
+    "en": "Marassi"
+   },
+   {
+    "ar": "العلمين الجديدة",
+    "en": "New Alamein"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "أمواج الساحل الشمالي فين بالظبط؟",
+     "en": "Where exactly is Amwaj North Coast?"
+    },
+    "a": {
+     "ar": "سيدي عبد الرحمن، الساحل الشمالي، من تطوير الأهلي صبور للتنمية العقارية.",
+     "en": "Sidi Abdel Rahman, North Coast, developed by Al Ahly Sabbour Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 15% وتقسيط لحد 5 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 15% down with instalments up to 5 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "fouka-bay",
+  "featured": false,
+  "order": 26,
+  "name": {
+   "ar": "فوكا باي",
+   "en": "Fouka Bay"
+  },
+  "developer": {
+   "ar": "تطوير مصر",
+   "en": "Tatweer Misr"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الساحل الشمالي",
+   "en": "Ras El Hekma, North Coast"
+  },
+  "landArea": {
+   "ar": "قرية ساحلية على خليج فوكا",
+   "en": "Coastal village on Fouka bay"
+  },
+  "startingPrice": 9000000,
+  "downPayment": 5,
+  "installmentYears": 10,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered phases and phases under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "twinhouse",
+   "penthouse"
+  ],
+  "unitAreaFrom": 70,
+  "unitAreaTo": 340,
+  "tagline": {
+   "ar": "خليج محمي ومياه هادية وأنظمة سداد طويلة",
+   "en": "A sheltered bay, calm water and long payment plans"
+  },
+  "hero": "assets/img/projects/fouka-bay-1.svg",
+  "gallery": [
+   "assets/img/projects/fouka-bay-1.svg",
+   "assets/img/projects/fouka-bay-2.svg",
+   "assets/img/projects/fouka-bay-3.svg",
+   "assets/img/projects/fouka-bay-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "فوكا باي من تطوير مصر في رأس الحكمة، على خليج محمي بمياه هادية بيخلّيه مناسب جدًا للعائلات بأطفال. المشروع بيتميّز كمان بأنظمة سداد طويلة نسبيًا مقارنة بباقي المنطقة.",
+    "الوحدات في فوكا باي بتبدأ من حوالي 70 متر وبتوصل لحوالي 340 متر، وبتشمل شاليهات، شقق، فيلات مستقلة، توين هاوس، بنتهاوس. أنظمة السداد المعلنة بتبدأ من مقدم 5% وتقسيط يوصل لـ10 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Tatweer Misr's Fouka Bay sits on a sheltered Ras El Hekma bay whose calm water makes it particularly suited to families with young children. It also carries some of the longer payment plans available in the area.",
+    "Units at Fouka Bay run from roughly 70 to 340 sqm and cover chalets, apartments, standalone villas, twin houses, penthouses. Published plans start at a 5% down payment with instalments of up to 10 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "خليج محمي ومياه هادية وأنظمة سداد طويلة",
+    "en": "A sheltered bay, calm water and long payment plans"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 5% وتقسيط حتى 10 سنين",
+    "en": "5% down payment, up to 10 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "70 - 115",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "110 - 160",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "150 - 210",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "70 - 135",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "125 - 200",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "190 - 255",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "280 - 340",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "lagoon",
+   "pools",
+   "restaurants",
+   "retail",
+   "kidsArea",
+   "security",
+   "clubhouse",
+   "gym",
+   "sports"
+  ],
+  "payment": [
+   {
+    "dp": 5,
+    "years": 10
+   },
+   {
+    "dp": 15,
+    "years": 8
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "الضبعة",
+    "en": "Al Dabaa"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "فوكا باي فين بالظبط؟",
+     "en": "Where exactly is Fouka Bay?"
+    },
+    "a": {
+     "ar": "رأس الحكمة، الساحل الشمالي، من تطوير تطوير مصر.",
+     "en": "Ras El Hekma, North Coast, developed by Tatweer Misr."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 5% وتقسيط لحد 10 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 5% down with instalments up to 10 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "almaza-bay",
+  "featured": false,
+  "order": 27,
+  "name": {
+   "ar": "الماظة باي",
+   "en": "Almaza Bay"
+  },
+  "developer": {
+   "ar": "ترافكو للتطوير العقاري",
+   "en": "Travco Properties Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "سيدي حنيش، الساحل الشمالي",
+   "en": "Sidi Heneish, North Coast"
+  },
+  "landArea": {
+   "ar": "وجهة سياحية وسكنية متكاملة",
+   "en": "Integrated resort and residential destination"
+  },
+  "startingPrice": 11000000,
+  "downPayment": 10,
+  "installmentYears": 7,
+  "delivery": "2027",
+  "status": {
+   "ar": "مراحل مستلمة وأخرى تحت الإنشاء",
+   "en": "Delivered phases and phases under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "twinhouse",
+   "townhouse"
+  ],
+  "unitAreaFrom": 85,
+  "unitAreaTo": 380,
+  "tagline": {
+   "ar": "فنادق عالمية وأكوا بارك وشاطئ من أنضف شواطئ الساحل",
+   "en": "International hotels, an aqua park and one of the cleanest beaches"
+  },
+  "hero": "assets/img/projects/almaza-bay-1.svg",
+  "gallery": [
+   "assets/img/projects/almaza-bay-1.svg",
+   "assets/img/projects/almaza-bay-2.svg",
+   "assets/img/projects/almaza-bay-3.svg",
+   "assets/img/projects/almaza-bay-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Sidi%20Heneish%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "الماظة باي من ترافكو في سيدي حنيش، وهي وجهة بتجمع بين وحدات مملوكة وفنادق عالمية شغالة داخل نفس المشروع. الشاطئ من أنضف شواطئ الساحل، وفيه أكوا بارك ومنطقة أنشطة مائية.",
+    "الوحدات في الماظة باي بتبدأ من حوالي 85 متر وبتوصل لحوالي 380 متر، وبتشمل شاليهات، شقق، فيلات مستقلة، توين هاوس، تاون هاوس. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ7 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Travco's Almaza Bay in Sidi Heneish combines privately owned units with international hotels operating inside the same destination. The beach is among the cleanest on the coast, and there is an aqua park and a water-sports zone.",
+    "Units at Almaza Bay run from roughly 85 to 380 sqm and cover chalets, apartments, standalone villas, twin houses, townhouses. Published plans start at a 10% down payment with instalments of up to 7 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "فنادق عالمية وأكوا بارك وشاطئ من أنضف شواطئ الساحل",
+    "en": "International hotels, an aqua park and one of the cleanest beaches"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 7 سنين",
+    "en": "10% down payment, up to 7 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "85 - 130",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "125 - 185",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "175 - 240",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "85 - 155",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "145 - 225",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "215 - 285",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "315 - 380",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "restaurants",
+   "retail",
+   "sports",
+   "kidsArea",
+   "security",
+   "clubhouse",
+   "medical",
+   "gym"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 7
+   },
+   {
+    "dp": 20,
+    "years": 5
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "مرسى مطروح",
+    "en": "Marsa Matrouh"
+   },
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "الماظة باي فين بالظبط؟",
+     "en": "Where exactly is Almaza Bay?"
+    },
+    "a": {
+     "ar": "سيدي حنيش، الساحل الشمالي، من تطوير ترافكو للتطوير العقاري.",
+     "en": "Sidi Heneish, North Coast, developed by Travco Properties Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 7 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 7 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "naia-bay",
+  "featured": false,
+  "order": 28,
+  "name": {
+   "ar": "نايا باي",
+   "en": "Naia Bay"
+  },
+  "developer": {
+   "ar": "نايا للتطوير العقاري",
+   "en": "Naia Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الساحل الشمالي",
+   "en": "Ras El Hekma, North Coast"
+  },
+  "landArea": {
+   "ar": "قرية ساحلية على البحر مباشرة",
+   "en": "Beachfront coastal village"
+  },
+  "startingPrice": 10500000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "chalet",
+   "apartment",
+   "villa",
+   "twinhouse",
+   "penthouse"
+  ],
+  "unitAreaFrom": 75,
+  "unitAreaTo": 350,
+  "tagline": {
+   "ar": "واجهة بحرية مباشرة وتصميم أبيض بسيط",
+   "en": "A direct seafront and a pared-back white palette"
+  },
+  "hero": "assets/img/projects/naia-bay-1.svg",
+  "gallery": [
+   "assets/img/projects/naia-bay-1.svg",
+   "assets/img/projects/naia-bay-2.svg",
+   "assets/img/projects/naia-bay-3.svg",
+   "assets/img/projects/naia-bay-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Ras%20El%20Hekma%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "نايا باي في رأس الحكمة من نايا للتطوير، بواجهة بحرية مباشرة وتصميم أبيض بسيط مستوحى من الجزر اليونانية. المنسوب متدرّج فأغلب الصفوف بتحتفظ بإطلالة على المياه.",
+    "الوحدات في نايا باي بتبدأ من حوالي 75 متر وبتوصل لحوالي 350 متر، وبتشمل شاليهات، شقق، فيلات مستقلة، توين هاوس، بنتهاوس. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Naia Bay in Ras El Hekma has a direct seafront and a pared-back white, Greek-island palette. Levels step down towards the water, so most rows retain a sea view rather than only the first.",
+    "Units at Naia Bay run from roughly 75 to 350 sqm and cover chalets, apartments, standalone villas, twin houses, penthouses. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "واجهة بحرية مباشرة وتصميم أبيض بسيط",
+    "en": "A direct seafront and a pared-back white palette"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "75 - 120",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "115 - 170",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "160 - 220",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "75 - 140",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "130 - 205",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "195 - 260",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "290 - 350",
+    "beds": 5
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "restaurants",
+   "retail",
+   "clubhouse",
+   "kidsArea",
+   "security",
+   "gym",
+   "greenSpaces"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "سيدي حنيش",
+    "en": "Sidi Heneish"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "نايا باي فين بالظبط؟",
+     "en": "Where exactly is Naia Bay?"
+    },
+    "a": {
+     "ar": "رأس الحكمة، الساحل الشمالي، من تطوير نايا للتطوير العقاري.",
+     "en": "Ras El Hekma, North Coast, developed by Naia Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "hacienda-white",
+  "featured": false,
+  "order": 29,
+  "name": {
+   "ar": "هاسيندا وايت",
+   "en": "Hacienda White"
+  },
+  "developer": {
+   "ar": "بالم هيلز للتطوير العقاري",
+   "en": "Palm Hills Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "سيدي عبد الرحمن، الساحل الشمالي",
+   "en": "Sidi Abdel Rahman, North Coast"
+  },
+  "landArea": {
+   "ar": "قرية ساحلية مستلمة",
+   "en": "Delivered coastal village"
+  },
+  "startingPrice": 13000000,
+  "downPayment": 15,
+  "installmentYears": 5,
+  "delivery": {
+   "ar": "مستلم",
+   "en": "Ready"
+  },
+  "status": {
+   "ar": "مستلم بالكامل",
+   "en": "Fully delivered"
+  },
+  "types": [
+   "chalet",
+   "villa",
+   "twinhouse",
+   "townhouse",
+   "apartment"
+  ],
+  "unitAreaFrom": 90,
+  "unitAreaTo": 420,
+  "tagline": {
+   "ar": "أشهر مطاعم الساحل ومجتمع ثابت من سنين",
+   "en": "The coast's best-known dining scene and a settled community"
+  },
+  "hero": "assets/img/projects/hacienda-white-1.svg",
+  "gallery": [
+   "assets/img/projects/hacienda-white-1.svg",
+   "assets/img/projects/hacienda-white-2.svg",
+   "assets/img/projects/hacienda-white-3.svg",
+   "assets/img/projects/hacienda-white-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=Sidi%20Abdel%20Rahman%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "هاسيندا وايت من بالم هيلز في سيدي عبد الرحمن، وهي من القرى اللي بنت اسمها على المجتمع والمطاعم مش على الإنشاءات — كيكيز وسكاليني وجالامبو كلها هنا. القرية مستلمة بالكامل وسعر إعادة البيع فيها مستقر نسبيًا.",
+    "الوحدات في هاسيندا وايت بتبدأ من حوالي 90 متر وبتوصل لحوالي 420 متر، وبتشمل شاليهات، فيلات مستقلة، توين هاوس، تاون هاوس، شقق. أنظمة السداد المعلنة بتبدأ من مقدم 15% وتقسيط يوصل لـ5 سنين، والوحدات مستلمة.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Palm Hills' Hacienda White in Sidi Abdel Rahman built its name on community and dining rather than construction — Kiki's, Scalini and Galambo are all here. The village is fully delivered and its resale pricing has held up relatively well.",
+    "Units at Hacienda White run from roughly 90 to 420 sqm and cover chalets, standalone villas, twin houses, townhouses, apartments. Published plans start at a 15% down payment with instalments of up to 5 years, and units are already delivered.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "أشهر مطاعم الساحل ومجتمع ثابت من سنين",
+    "en": "The coast's best-known dining scene and a settled community"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "كلوب هاوس ومنطقة مطاعم",
+    "en": "Clubhouse and dining district"
+   },
+   {
+    "ar": "مقدم 15% وتقسيط حتى 5 سنين",
+    "en": "15% down payment, up to 5 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "90 - 145",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "135 - 200",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "190 - 260",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "فيلا مستقلة",
+     "en": "Standalone Villa"
+    },
+    "area": "345 - 420",
+    "beds": 5
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin House"
+    },
+    "area": "300 - 365",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouse"
+    },
+    "area": "260 - 335",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "90 - 170",
+    "beds": 2
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "restaurants",
+   "retail",
+   "clubhouse",
+   "kidsArea",
+   "security",
+   "gym",
+   "sports",
+   "medical"
+  ],
+  "payment": [
+   {
+    "dp": 15,
+    "years": 5
+   },
+   {
+    "dp": 25,
+    "years": 3
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "مراسي",
+    "en": "Marassi"
+   },
+   {
+    "ar": "هاسيندا باي",
+    "en": "Hacienda Bay"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "هاسيندا وايت فين بالظبط؟",
+     "en": "Where exactly is Hacienda White?"
+    },
+    "a": {
+     "ar": "سيدي عبد الرحمن، الساحل الشمالي، من تطوير بالم هيلز للتطوير العقاري.",
+     "en": "Sidi Abdel Rahman, North Coast, developed by Palm Hills Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 15% وتقسيط لحد 5 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 15% down with instalments up to 5 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "palm-hills-new-alamein",
+  "featured": false,
+  "order": 30,
+  "name": {
+   "ar": "بالم هيلز العلمين الجديدة",
+   "en": "Palm Hills New Alamein"
+  },
+  "developer": {
+   "ar": "بالم هيلز للتطوير العقاري",
+   "en": "Palm Hills Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "العلمين الجديدة، الساحل الشمالي",
+   "en": "New Alamein City, North Coast"
+  },
+  "landArea": {
+   "ar": "مشروع داخل مدينة العلمين الجديدة",
+   "en": "Project inside New Alamein City"
+  },
+  "startingPrice": 10000000,
+  "downPayment": 10,
+  "installmentYears": 8,
+  "delivery": "2027",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "apartment",
+   "chalet",
+   "penthouse",
+   "duplex"
+  ],
+  "unitAreaFrom": 90,
+  "unitAreaTo": 300,
+  "tagline": {
+   "ar": "سكن على مدار السنة داخل مدينة بخدمات كاملة",
+   "en": "Year-round living inside a city with full services"
+  },
+  "hero": "assets/img/projects/palm-hills-new-alamein-1.svg",
+  "gallery": [
+   "assets/img/projects/palm-hills-new-alamein-1.svg",
+   "assets/img/projects/palm-hills-new-alamein-2.svg",
+   "assets/img/projects/palm-hills-new-alamein-3.svg",
+   "assets/img/projects/palm-hills-new-alamein-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=New%20Alamein%20City%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "بالم هيلز العلمين الجديدة مشروع جوه مدينة العلمين نفسها، يعني مش قرية موسمية — فيه جامعات ومستشفيات وخدمات شغالة طول السنة. ده بيخلّيه خيار منطقي للسكن الدائم أو للتأجير خارج الموسم.",
+    "الوحدات في بالم هيلز العلمين الجديدة بتبدأ من حوالي 90 متر وبتوصل لحوالي 300 متر، وبتشمل شقق، شاليهات، بنتهاوس، دوبلكسات. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ8 سنين، والاستلام 2027.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "Palm Hills New Alamein sits inside New Alamein City itself rather than in a seasonal village, which means universities, hospitals and services that operate year-round. That makes it a sensible option for permanent living or for off-season rental.",
+    "Units at Palm Hills New Alamein run from roughly 90 to 300 sqm and cover apartments, chalets, penthouses, duplexes. Published plans start at a 10% down payment with instalments of up to 8 years, with delivery in 2027.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "سكن على مدار السنة داخل مدينة بخدمات كاملة",
+    "en": "Year-round living inside a city with full services"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "مدارس وحضانات داخل المشروع",
+    "en": "Schools and nurseries on site"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 8 سنين",
+    "en": "10% down payment, up to 8 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "90 - 140",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "130 - 190",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "180 - 235",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "90 - 125",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "120 - 160",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "155 - 200",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "بنتهاوس",
+     "en": "Penthouse"
+    },
+    "area": "185 - 245",
+    "beds": 3
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "retail",
+   "restaurants",
+   "medical",
+   "school",
+   "security",
+   "parking",
+   "gym",
+   "greenSpaces"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 8
+   },
+   {
+    "dp": 20,
+    "years": 6
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "مطار العلمين الدولي",
+    "en": "Alamein International Airport"
+   },
+   {
+    "ar": "مراسي",
+    "en": "Marassi"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "بالم هيلز العلمين الجديدة فين بالظبط؟",
+     "en": "Where exactly is Palm Hills New Alamein?"
+    },
+    "a": {
+     "ar": "العلمين الجديدة، الساحل الشمالي، من تطوير بالم هيلز للتطوير العقاري.",
+     "en": "New Alamein City, North Coast, developed by Palm Hills Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 8 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 8 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "il-latini-new-alamein",
+  "featured": false,
+  "order": 31,
+  "name": {
+   "ar": "إل لاتيني العلمين",
+   "en": "IL Latini New Alamein"
+  },
+  "developer": {
+   "ar": "سيتي إيدج للتطوير العقاري",
+   "en": "City Edge Developments"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "العلمين الجديدة، الساحل الشمالي",
+   "en": "New Alamein City, North Coast"
+  },
+  "landArea": {
+   "ar": "مشروع داخل مدينة العلمين الجديدة",
+   "en": "Project inside New Alamein City"
+  },
+  "startingPrice": 8000000,
+  "downPayment": 10,
+  "installmentYears": 10,
+  "delivery": "2028",
+  "status": {
+   "ar": "تحت الإنشاء",
+   "en": "Under construction"
+  },
+  "types": [
+   "apartment",
+   "chalet",
+   "penthouse",
+   "duplex"
+  ],
+  "unitAreaFrom": 85,
+  "unitAreaTo": 280,
+  "tagline": {
+   "ar": "طابع إيطالي وأنظمة سداد تصل لعشر سنين",
+   "en": "An Italian character and payment plans reaching ten years"
+  },
+  "hero": "assets/img/projects/il-latini-new-alamein-1.svg",
+  "gallery": [
+   "assets/img/projects/il-latini-new-alamein-1.svg",
+   "assets/img/projects/il-latini-new-alamein-2.svg",
+   "assets/img/projects/il-latini-new-alamein-3.svg",
+   "assets/img/projects/il-latini-new-alamein-4.svg"
+  ],
+  "map": "https://maps.google.com/maps?q=New%20Alamein%20City%2C%20North%20Coast%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "إل لاتيني من سيتي إيدج في العلمين الجديدة، بطابع معماري إيطالي وشوارع مشاة وميادين. المشروع حكومي التطوير، وده بيدي أنظمة سداد أطول من المعتاد وسعر دخول أقل من مشاريع رأس الحكمة.",
+    "الوحدات في إل لاتيني العلمين بتبدأ من حوالي 85 متر وبتوصل لحوالي 280 متر، وبتشمل شقق، شاليهات، بنتهاوس، دوبلكسات. أنظمة السداد المعلنة بتبدأ من مقدم 10% وتقسيط يوصل لـ10 سنين، والاستلام 2028.",
+    "بنتابع المتاح في المشروع أول بأول — سواء من المطور مباشرة أو من سوق إعادة البيع — ونقدر نبعتلك المقارنة بين الوحدات المتاحة دلوقتي بالسعر ونظام السداد والدور والإطلالة، عشان تختار على أساس أرقام مش انطباعات."
+   ],
+   "en": [
+    "City Edge's IL Latini in New Alamein carries an Italian architectural character with pedestrian streets and public squares. As a state-backed development it offers longer payment plans than usual and a lower entry price than Ras El Hekma.",
+    "Units at IL Latini New Alamein run from roughly 85 to 280 sqm and cover apartments, chalets, penthouses, duplexes. Published plans start at a 10% down payment with instalments of up to 10 years, with delivery in 2028.",
+    "We track availability here continuously, both from the developer and on the resale market, and can send you a side-by-side comparison of what is actually available now — price, payment plan, floor and view — so you can decide on numbers rather than impressions."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "طابع إيطالي وأنظمة سداد تصل لعشر سنين",
+    "en": "An Italian character and payment plans reaching ten years"
+   },
+   {
+    "ar": "شاطئ خاص وخدمات على الرمل",
+    "en": "Private beach with beach service"
+   },
+   {
+    "ar": "مقدم 10% وتقسيط حتى 10 سنين",
+    "en": "10% down payment, up to 10 years"
+   },
+   {
+    "ar": "أمن وصيانة على مدار السنة",
+    "en": "Year-round security and maintenance"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شقة غرفتين",
+     "en": "2-Bedroom Apartment"
+    },
+    "area": "85 - 130",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شقة 3 غرف",
+     "en": "3-Bedroom Apartment"
+    },
+    "area": "125 - 180",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "شقة 4 غرف",
+     "en": "4-Bedroom Apartment"
+    },
+    "area": "170 - 220",
+    "beds": 4
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفة",
+     "en": "1-Bedroom Chalet"
+    },
+    "area": "85 - 115",
+    "beds": 1
+   },
+   {
+    "name": {
+     "ar": "شاليه غرفتين",
+     "en": "2-Bedroom Chalet"
+    },
+    "area": "110 - 150",
+    "beds": 2
+   },
+   {
+    "name": {
+     "ar": "شاليه 3 غرف",
+     "en": "3-Bedroom Chalet"
+    },
+    "area": "145 - 185",
+    "beds": 3
+   },
+   {
+    "name": {
+     "ar": "بنتهاوس",
+     "en": "Penthouse"
+    },
+    "area": "175 - 230",
+    "beds": 3
+   }
+  ],
+  "amenities": [
+   "beach",
+   "pools",
+   "retail",
+   "restaurants",
+   "greenSpaces",
+   "security",
+   "parking",
+   "kidsArea",
+   "medical"
+  ],
+  "payment": [
+   {
+    "dp": 10,
+    "years": 10
+   },
+   {
+    "dp": 20,
+    "years": 8
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "مطار العلمين الدولي",
+    "en": "Alamein International Airport"
+   },
+   {
+    "ar": "داون تاون العلمين",
+    "en": "Downtown New Alamein"
+   },
+   {
+    "ar": "الطريق الساحلي الدولي",
+    "en": "International Coastal Road"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "ar": "إل لاتيني العلمين فين بالظبط؟",
+     "en": "Where exactly is IL Latini New Alamein?"
+    },
+    "a": {
+     "ar": "العلمين الجديدة، الساحل الشمالي، من تطوير سيتي إيدج للتطوير العقاري.",
+     "en": "New Alamein City, North Coast, developed by City Edge Developments."
+    }
+   },
+   {
+    "q": {
+     "ar": "إيه نظام السداد المتاح؟",
+     "en": "What payment plans are available?"
+    },
+    "a": {
+     "ar": "الأنظمة المعلنة بتبدأ من مقدم 10% وتقسيط لحد 10 سنين، وبتتغيّر من مرحلة للتانية ومن وقت للتاني — كلّمنا نبعتلك المتاح النهارده.",
+     "en": "Published plans start at 10% down with instalments up to 10 years. Terms change between phases and over time — contact us for what is live today."
+    }
+   },
+   {
+    "q": {
+     "ar": "فيه وحدات ريسيل متاحة؟",
+     "en": "Are resale units available?"
+    },
+    "a": {
+     "ar": "أيوه، وفي أوقات كتير الريسيل بيكون أسرع في الاستلام أو أفضل في الموقع داخل المشروع. بنعرض عليك الاتنين ونوضّح الفرق في التكلفة الكلية.",
+     "en": "Yes — and resale is often faster to hand over or better positioned inside the project. We show you both and spell out the difference in total cost."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "ogami-ras-el-hekma",
+  "featured": true,
+  "order": 4,
+  "name": {
+   "ar": "أوجامي رأس الحكمة",
+   "en": "Ogami Ras El Hekma"
+  },
+  "developer": {
+   "ar": "سوديك",
+   "en": "SODIC"
+  },
+  "city": "north-coast",
+  "location": {
+   "ar": "رأس الحكمة، الساحل الشمالي",
+   "en": "Ras El Hekma, North Coast"
+  },
+  "landArea": {
+   "ar": "قرية ساحلية من سوديك",
+   "en": "SODIC coastal community"
+  },
+  "startingPrice": 0,
+  "downPayment": 5,
+  "installmentYears": 8,
+  "delivery": {
+   "ar": "حسب الوحدة",
+   "en": "Unit dependent"
+  },
+  "status": {
+   "ar": "متاح من المطور وإعادة البيع حسب التوافر",
+   "en": "Developer and resale availability varies"
+  },
+  "types": [
+   "chalet",
+   "townhouse",
+   "villa",
+   "twinhouse"
+  ],
+  "unitAreaFrom": 0,
+  "unitAreaTo": 0,
+  "tagline": {
+   "ar": "مجتمع ساحلي هادئ من سوديك في رأس الحكمة",
+   "en": "A calm SODIC coastal community in Ras El Hekma"
+  },
+  "hero": "assets/img/projects/ogami-ras-el-hekma/1.webp",
+  "gallery": [
+   "assets/img/projects/ogami-ras-el-hekma/1.webp",
+   "assets/img/projects/ogami-ras-el-hekma/2.webp",
+   "assets/img/projects/ogami-ras-el-hekma/3.webp",
+   "assets/img/projects/ogami-ras-el-hekma/4.webp",
+   "assets/img/projects/ogami-ras-el-hekma/5.webp"
+  ],
+  "map": "https://maps.google.com/maps?q=Ogami%20Ras%20El%20Hekma%2C%20Egypt&t=&z=12&ie=UTF8&iwloc=&output=embed",
+  "about": {
+   "ar": [
+    "أوجامي رأس الحكمة قرية ساحلية من سوديك في منطقة رأس الحكمة، وتضم مجموعة من الوحدات الساحلية مثل الشاليهات والتاون هاوس والفيلات والتوين هاوس. البيانات المعروضة هنا استرشادية ومأخوذة من صفحة المشروع العامة وتحتاج إلى تأكيد مباشر قبل الحجز."
+   ],
+   "en": [
+    "Ogami Ras El Hekma is a SODIC coastal community in Ras El Hekma, with coastal units including chalets, townhouses, villas and twin houses. The information shown here is indicative and based on the public project page; confirm current availability before booking."
+   ]
+  },
+  "highlights": [
+   {
+    "ar": "موقع في رأس الحكمة",
+    "en": "Ras El Hekma location"
+   },
+   {
+    "ar": "اختيارات متعددة من الوحدات",
+    "en": "Multiple unit types"
+   },
+   {
+    "ar": "مقدم يبدأ من 5% حسب الخطة",
+    "en": "Plans shown from 5% down payment"
+   },
+   {
+    "ar": "مشروع من سوديك",
+    "en": "A SODIC development"
+   }
+  ],
+  "unitTypes": [
+   {
+    "name": {
+     "ar": "شاليهات",
+     "en": "Chalets"
+    },
+    "area": "حسب التوافر",
+    "beds": 0
+   },
+   {
+    "name": {
+     "ar": "تاون هاوس",
+     "en": "Townhouses"
+    },
+    "area": "حسب التوافر",
+    "beds": 0
+   },
+   {
+    "name": {
+     "ar": "فيلات",
+     "en": "Villas"
+    },
+    "area": "حسب التوافر",
+    "beds": 0
+   },
+   {
+    "name": {
+     "ar": "توين هاوس",
+     "en": "Twin Houses"
+    },
+    "area": "حسب التوافر",
+    "beds": 0
+   }
+  ],
+  "amenities": [
+   "pools",
+   "clubhouse",
+   "sports",
+   "gym",
+   "retail"
+  ],
+  "payment": [
+   {
+    "dp": 5,
+    "years": 7
+   },
+   {
+    "dp": 5,
+    "years": 8
+   }
+  ],
+  "nearby": [
+   {
+    "ar": "رأس الحكمة",
+    "en": "Ras El Hekma"
+   },
+   {
+    "ar": "الساحل الشمالي",
+    "en": "North Coast"
+   }
+  ],
+  "faq": [],
+  "sourceUrl": "https://www.nawy.com/ar/compound/1237-%D8%A3%D9%88%D8%AC%D8%A7%D9%85%D9%8A-%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9"
+ }
+]
